@@ -287,7 +287,7 @@ namespace Demo_01
             //    branche = Branches.maadi
             //};
             ////---------------------------------------
-            //Student S2 = new Student();
+            Student S2 = new Student();
 
             //Console.WriteLine("Please Enter Info About Student: ");
             ////Id
@@ -313,22 +313,22 @@ namespace Demo_01
             //    flagGrade = Enum.TryParse(Console.ReadLine(), out G01);
             //} while (!flagGrade);
 
-            ////Gender
-            ////Console.Write("Enter Gender : ");
-            ////bool flagGender;
-            ////Gender stdGender;
-            ////do
-            ////{
-            ////    flagGender = Enum.TryParse(Console.ReadLine(), out stdGender);
-            ////} while (!flagGender);
-            ////S2.gender = stdGender;
+
+            //Console.Write("Enter Gender : ");
+            //bool flagGender;
+            //Gender stdGender;
+            //do
+            //{
+            //    flagGender = Enum.TryParse(Console.ReadLine(), out stdGender);
+            //} while (!flagGender);
+            //S2.gender = stdGender;
 
             //Console.Write("Enter Gender : ");
             //bool flagGender;
             //object stdGender;
             //do
             //{
-            //    flagGender = Enum.TryParse(typeof(Gender),Console.ReadLine(), out stdGender);
+            //    flagGender = Enum.TryParse(typeof(Gender), Console.ReadLine(), out stdGender);
             //} while (!flagGender);
             //S2.gender = (Gender)stdGender;
 

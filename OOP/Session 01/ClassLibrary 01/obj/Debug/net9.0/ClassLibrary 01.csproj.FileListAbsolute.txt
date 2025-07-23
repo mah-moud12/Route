@@ -9,3 +9,4 @@ C:\Users\Mr Ali\Music\Route\OOP\Session 01\ClassLibrary 01\obj\Debug\net9.0\Clas
 C:\Users\Mr Ali\Music\Route\OOP\Session 01\ClassLibrary 01\obj\Debug\net9.0\refint\ClassLibrary 01.dll
 C:\Users\Mr Ali\Music\Route\OOP\Session 01\ClassLibrary 01\obj\Debug\net9.0\ClassLibrary 01.pdb
 C:\Users\Mr Ali\Music\Route\OOP\Session 01\ClassLibrary 01\obj\Debug\net9.0\ref\ClassLibrary 01.dll
+C:\Users\Mr Ali\Music\Route\OOP\Session 01\ClassLibrary 01\obj\Debug\net9.0\ClassLibrary 01.sourcelink.json

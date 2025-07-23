@@ -16,3 +16,4 @@ C:\Users\Mr Ali\Music\Route\OOP\Session 01\Demo 01\bin\Debug\net9.0\ClassLibrary
 C:\Users\Mr Ali\Music\Route\OOP\Session 01\Demo 01\bin\Debug\net9.0\ClassLibrary 01.pdb
 C:\Users\Mr Ali\Music\Route\OOP\Session 01\Demo 01\obj\Debug\net9.0\Demo 01.csproj.AssemblyReference.cache
 C:\Users\Mr Ali\Music\Route\OOP\Session 01\Demo 01\obj\Debug\net9.0\Demo 01.csproj.Up2Date
+C:\Users\Mr Ali\Music\Route\OOP\Session 01\Demo 01\obj\Debug\net9.0\Demo 01.sourcelink.json
