@@ -1,0 +1,32 @@
+using System;
+
+namespace CLRExample
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Person p = new Person("Ahmed", 22);
+            p.PrintInfo();
+
+            // بعد الاستخدام، الكائن هيتشال تلقائيًا من الذاكرة (GC)
+        }
+    }
+
+    class Person
+    {
+        public string Name;
+        public int Age;
+
+        public Person(string name, int age)
+        {
+            Name = name;
+            Age = age;
+        }
+
+        public void PrintInfo()
+        {
+            Console.WriteLine($"Name: {Name}, Age: {Age}");
+        }
+    }
+}

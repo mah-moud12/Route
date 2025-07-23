@@ -1,0 +1,11 @@
+C:\Users\Mr Ali\Music\Route\OOP\Session 01\ClassLibrary 01\bin\Debug\net9.0\ClassLibrary 01.deps.json
+C:\Users\Mr Ali\Music\Route\OOP\Session 01\ClassLibrary 01\bin\Debug\net9.0\ClassLibrary 01.dll
+C:\Users\Mr Ali\Music\Route\OOP\Session 01\ClassLibrary 01\bin\Debug\net9.0\ClassLibrary 01.pdb
+C:\Users\Mr Ali\Music\Route\OOP\Session 01\ClassLibrary 01\obj\Debug\net9.0\ClassLibrary 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Ali\Music\Route\OOP\Session 01\ClassLibrary 01\obj\Debug\net9.0\ClassLibrary 01.AssemblyInfoInputs.cache
+C:\Users\Mr Ali\Music\Route\OOP\Session 01\ClassLibrary 01\obj\Debug\net9.0\ClassLibrary 01.AssemblyInfo.cs
+C:\Users\Mr Ali\Music\Route\OOP\Session 01\ClassLibrary 01\obj\Debug\net9.0\ClassLibrary 01.csproj.CoreCompileInputs.cache
+C:\Users\Mr Ali\Music\Route\OOP\Session 01\ClassLibrary 01\obj\Debug\net9.0\ClassLibrary 01.dll
+C:\Users\Mr Ali\Music\Route\OOP\Session 01\ClassLibrary 01\obj\Debug\net9.0\refint\ClassLibrary 01.dll
+C:\Users\Mr Ali\Music\Route\OOP\Session 01\ClassLibrary 01\obj\Debug\net9.0\ClassLibrary 01.pdb
+C:\Users\Mr Ali\Music\Route\OOP\Session 01\ClassLibrary 01\obj\Debug\net9.0\ref\ClassLibrary 01.dll

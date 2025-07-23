@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mr Ali\\Music\\Basic C#\\intro C# 01\\Demo Sessions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7C4F5-6BBE-4186-9CB2-610DB41E48F3}|Demo 01\\Demo 01.csproj|c:\\users\\mr ali\\music\\basic c#\\intro c# 01\\demo sessions\\demo 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7C4F5-6BBE-4186-9CB2-610DB41E48F3}|Demo 01\\Demo 01.csproj|solutionrelative:demo 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7C4F5-6BBE-4186-9CB2-610DB41E48F3}|Demo 01\\Demo 01.csproj|c:\\users\\mr ali\\music\\basic c#\\intro c# 01\\demo sessions\\demo 01\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7C4F5-6BBE-4186-9CB2-610DB41E48F3}|Demo 01\\Demo 01.csproj|solutionrelative:demo 01\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Basic C#\\intro C# 01\\Demo Sessions\\Demo 01\\Point.cs",
+              "RelativeDocumentMoniker": "Demo 01\\Point.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Basic C#\\intro C# 01\\Demo Sessions\\Demo 01\\Point.cs",
+              "RelativeToolTip": "Demo 01\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T21:17:25.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Basic C#\\intro C# 01\\Demo Sessions\\Demo 01\\Program.cs",
+              "RelativeDocumentMoniker": "Demo 01\\Program.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Basic C#\\intro C# 01\\Demo Sessions\\Demo 01\\Program.cs",
+              "RelativeToolTip": "Demo 01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:44:19.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

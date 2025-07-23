@@ -1,0 +1,15 @@
+C:\Users\Mr Ali\Music\Basic C#\C# 04\Demo 03\Solve Task 02\bin\Debug\net9.0\Solve Task 02.exe
+C:\Users\Mr Ali\Music\Basic C#\C# 04\Demo 03\Solve Task 02\bin\Debug\net9.0\Solve Task 02.deps.json
+C:\Users\Mr Ali\Music\Basic C#\C# 04\Demo 03\Solve Task 02\bin\Debug\net9.0\Solve Task 02.runtimeconfig.json
+C:\Users\Mr Ali\Music\Basic C#\C# 04\Demo 03\Solve Task 02\bin\Debug\net9.0\Solve Task 02.dll
+C:\Users\Mr Ali\Music\Basic C#\C# 04\Demo 03\Solve Task 02\bin\Debug\net9.0\Solve Task 02.pdb
+C:\Users\Mr Ali\Music\Basic C#\C# 04\Demo 03\Solve Task 02\obj\Debug\net9.0\Solve Task 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Ali\Music\Basic C#\C# 04\Demo 03\Solve Task 02\obj\Debug\net9.0\Solve Task 02.AssemblyInfoInputs.cache
+C:\Users\Mr Ali\Music\Basic C#\C# 04\Demo 03\Solve Task 02\obj\Debug\net9.0\Solve Task 02.AssemblyInfo.cs
+C:\Users\Mr Ali\Music\Basic C#\C# 04\Demo 03\Solve Task 02\obj\Debug\net9.0\Solve Task 02.csproj.CoreCompileInputs.cache
+C:\Users\Mr Ali\Music\Basic C#\C# 04\Demo 03\Solve Task 02\obj\Debug\net9.0\Solve Task 02.sourcelink.json
+C:\Users\Mr Ali\Music\Basic C#\C# 04\Demo 03\Solve Task 02\obj\Debug\net9.0\Solve Task 02.dll
+C:\Users\Mr Ali\Music\Basic C#\C# 04\Demo 03\Solve Task 02\obj\Debug\net9.0\refint\Solve Task 02.dll
+C:\Users\Mr Ali\Music\Basic C#\C# 04\Demo 03\Solve Task 02\obj\Debug\net9.0\Solve Task 02.pdb
+C:\Users\Mr Ali\Music\Basic C#\C# 04\Demo 03\Solve Task 02\obj\Debug\net9.0\Solve Task 02.genruntimeconfig.cache
+C:\Users\Mr Ali\Music\Basic C#\C# 04\Demo 03\Solve Task 02\obj\Debug\net9.0\ref\Solve Task 02.dll

@@ -1,0 +1,58 @@
+// مكتوب بـ C# - متوافق مع CLR
+
+using System;
+
+namespace CLRExample
+{
+    // CLS-Compliant class (Public, standard types)
+    public class Calculator
+    {
+        // CTS: استخدام نوع موحّد - System.Int32
+        public int Add(int a, int b)
+        {
+            return a + b;
+        }
+
+        // توضيح GC: كائن بيتم إنشاؤه والتخلص منه تلقائيًا
+        public class TempObject
+        {
+            public TempObject()
+            {
+                Console.WriteLine("TempObject created.");
+            }
+
+            ~TempObject() // destructor
+            {
+                Console.WriteLine("TempObject finalized by GC.");
+            }
+        }
+
+        public void CreateTemp()
+        {
+            TempObject temp = new TempObject();
+            // الكائن temp مالوش استخدام بعد كده → GC هيمسحه بعد شوية
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // JIT: أول مرة تنادي Calculator → CLR يحول الكود لـ Machine code
+            Calculator calc = new Calculator();
+
+            // CTS + CLS: دوال متوافقة مع أنواع بيانات موحّدة
+            int result = calc.Add(10, 5);
+            Console.WriteLine($"Result: {result}");
+
+            // GC: ننشئ كائن مؤقت
+            calc.CreateTemp();
+
+            // إجبار GC للتنظيف (مش دايمًا بنعمل كده، بس للتجربة)
+            GC.Collect();
+            GC.WaitForPendingFinalizers();
+
+            Console.WriteLine("End of program.");
+        }
+    }
+}
