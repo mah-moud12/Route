@@ -8,7 +8,7 @@ namespace Solve_Task_01
 {
     internal enum WeekDay
     {
-        Monday,
+        Monday=1,
         Tuesday,
         Wednesday,
         Thursday,

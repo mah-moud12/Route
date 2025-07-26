@@ -241,17 +241,17 @@ namespace Demo_01
 
             #region Example01
 
-            //Person P = new Person();
-            //P.name = "Mahmoud";
-            //P.id = 10;
-            //P.gender = (Gender)1;
+            Person P = new Person();
+            P.name = "Mahmoud";
+            P.id = 10;
+            P.gender = (Gender)1;
 
-            //Console.WriteLine(P.gender);
+            Console.WriteLine(P.gender);
 
             ////enum هو int لإن القيم فيه بتتخزن ك ارقام 
             ////لما بتيجي تتخزن في data base بتتخزن في integer
-            //int g00 = (int)Gender.Male;
-            //Console.WriteLine(g00);
+            int g00 = (int)Gender.Male;
+            Console.WriteLine(g00);
 
             ////----------------------------------------------------
             ////----------------------------------------------------

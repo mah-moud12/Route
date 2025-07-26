@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA3925DB-19CB-4D41-B013-D0DFEAD2AD42}|Solve Task 01\\Solve Task 01.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 01\\solve task 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA3925DB-19CB-4D41-B013-D0DFEAD2AD42}|Solve Task 01\\Solve Task 01.csproj|solutionrelative:solve task 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31D4984B-10D6-4301-93EE-CA89D4C2E699}|Demo 01\\Demo 01.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 01\\demo 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D4984B-10D6-4301-93EE-CA89D4C2E699}|Demo 01\\Demo 01.csproj|solutionrelative:demo 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA3925DB-19CB-4D41-B013-D0DFEAD2AD42}|Solve Task 01\\Solve Task 01.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 01\\solve task 01\\question 04\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA3925DB-19CB-4D41-B013-D0DFEAD2AD42}|Solve Task 01\\Solve Task 01.csproj|solutionrelative:solve task 01\\question 04\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA3925DB-19CB-4D41-B013-D0DFEAD2AD42}|Solve Task 01\\Solve Task 01.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 01\\solve task 01\\solve task 01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AA3925DB-19CB-4D41-B013-D0DFEAD2AD42}|Solve Task 01\\Solve Task 01.csproj|solutionrelative:solve task 01\\solve task 01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA3925DB-19CB-4D41-B013-D0DFEAD2AD42}|Solve Task 01\\Solve Task 01.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 01\\solve task 01\\question 02\\seasons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA3925DB-19CB-4D41-B013-D0DFEAD2AD42}|Solve Task 01\\Solve Task 01.csproj|solutionrelative:solve task 01\\question 02\\seasons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31D4984B-10D6-4301-93EE-CA89D4C2E699}|Demo 01\\Demo 01.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 01\\demo 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D4984B-10D6-4301-93EE-CA89D4C2E699}|Demo 01\\Demo 01.csproj|solutionrelative:demo 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA3925DB-19CB-4D41-B013-D0DFEAD2AD42}|Solve Task 01\\Solve Task 01.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 01\\solve task 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3925DB-19CB-4D41-B013-D0DFEAD2AD42}|Solve Task 01\\Solve Task 01.csproj|solutionrelative:solve task 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA3925DB-19CB-4D41-B013-D0DFEAD2AD42}|Solve Task 01\\Solve Task 01.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 01\\solve task 01\\question 01\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA3925DB-19CB-4D41-B013-D0DFEAD2AD42}|Solve Task 01\\Solve Task 01.csproj|solutionrelative:solve task 01\\question 01\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3925DB-19CB-4D41-B013-D0DFEAD2AD42}|Solve Task 01\\Solve Task 01.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 01\\solve task 01\\solve task 01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA3925DB-19CB-4D41-B013-D0DFEAD2AD42}|Solve Task 01\\Solve Task 01.csproj|solutionrelative:solve task 01\\solve task 01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,60 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Solve Task 01",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Solve Task 01\\Solve Task 01.csproj",
-              "RelativeDocumentMoniker": "Solve Task 01\\Solve Task 01.csproj",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Solve Task 01\\Solve Task 01.csproj",
-              "RelativeToolTip": "Solve Task 01\\Solve Task 01.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-23T03:32:33.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Colors.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Solve Task 01\\Question 04\\Colors.cs",
-              "RelativeDocumentMoniker": "Solve Task 01\\Question 04\\Colors.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Solve Task 01\\Question 04\\Colors.cs",
-              "RelativeToolTip": "Solve Task 01\\Question 04\\Colors.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T03:32:52.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Seasons.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Solve Task 01\\Question 02\\Seasons.cs",
-              "RelativeDocumentMoniker": "Solve Task 01\\Question 02\\Seasons.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Solve Task 01\\Question 02\\Seasons.cs",
-              "RelativeToolTip": "Solve Task 01\\Question 02\\Seasons.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T03:04:42.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Demo 01\\Program.cs",
-              "RelativeDocumentMoniker": "Demo 01\\Program.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Demo 01\\Program.cs",
-              "RelativeToolTip": "Demo 01\\Program.cs",
-              "ViewState": "AgIAACoBAAAAAAAAAAAgwDIBAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T03:01:19.263Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
@@ -107,25 +55,76 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "WeekDay.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Solve Task 01\\Question 01\\WeekDay.cs",
-              "RelativeDocumentMoniker": "Solve Task 01\\Question 01\\WeekDay.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Solve Task 01\\Question 01\\WeekDay.cs",
-              "RelativeToolTip": "Solve Task 01\\Question 01\\WeekDay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Title": "Solve Task 01.csproj",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Solve Task 01\\Solve Task 01.csproj",
+              "RelativeDocumentMoniker": "Solve Task 01\\Solve Task 01.csproj",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Solve Task 01\\Solve Task 01.csproj",
+              "RelativeToolTip": "Solve Task 01\\Solve Task 01.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-23T03:32:33.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Colors.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Solve Task 01\\Question 04\\Colors.cs",
+              "RelativeDocumentMoniker": "Solve Task 01\\Question 04\\Colors.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Solve Task 01\\Question 04\\Colors.cs",
+              "RelativeToolTip": "Solve Task 01\\Question 04\\Colors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T02:35:49.582Z",
+              "WhenOpened": "2025-07-23T03:32:52.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Seasons.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Solve Task 01\\Question 02\\Seasons.cs",
+              "RelativeDocumentMoniker": "Solve Task 01\\Question 02\\Seasons.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Solve Task 01\\Question 02\\Seasons.cs",
+              "RelativeToolTip": "Solve Task 01\\Question 02\\Seasons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:04:42.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Demo 01\\Program.cs",
+              "RelativeDocumentMoniker": "Demo 01\\Program.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Demo 01\\Program.cs*",
+              "RelativeToolTip": "Demo 01\\Program.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:01:19.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeekDay.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Solve Task 01\\Question 01\\WeekDay.cs",
+              "RelativeDocumentMoniker": "Solve Task 01\\Question 01\\WeekDay.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Solve Task 01\\Question 01\\WeekDay.cs",
+              "RelativeToolTip": "Solve Task 01\\Question 01\\WeekDay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T02:35:49.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Solve Task 01\\Program.cs",
               "RelativeDocumentMoniker": "Solve Task 01\\Program.cs",
               "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 01\\Solve Task 01\\Program.cs",
               "RelativeToolTip": "Solve Task 01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T02:34:20.173Z",
               "EditorCaption": ""

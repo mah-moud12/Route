@@ -1,0 +1,5 @@
+C:\Users\Mr Ali\Music\Route\OOP\Session 02\Demo 02\obj\Debug\net6.0\Demo 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Ali\Music\Route\OOP\Session 02\Demo 02\obj\Debug\net6.0\Demo 02.AssemblyInfoInputs.cache
+C:\Users\Mr Ali\Music\Route\OOP\Session 02\Demo 02\obj\Debug\net6.0\Demo 02.AssemblyInfo.cs
+C:\Users\Mr Ali\Music\Route\OOP\Session 02\Demo 02\obj\Debug\net6.0\Demo 02.csproj.CoreCompileInputs.cache
+C:\Users\Mr Ali\Music\Route\OOP\Session 02\Demo 02\obj\Debug\net6.0\Demo 02.sourcelink.json

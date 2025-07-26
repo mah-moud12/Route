@@ -7,22 +7,24 @@ namespace Demo_01
         static void Main(string[] args)
         {
             #region Error Types
-            //  1. ============ Compile-Time Errors (Syntax Errors) ============
+            //  1. ============ Compile - Time Errors(Syntax Errors) ============
             //----------------------------------------
-            // *=> Missing semicolon (;).  => Console.WriteLine("Helllo, World")
+
+            // *=> Missing semicolon(;).  => Console.WriteLine("Helllo, World")
             //----------------------------------------
-            // *=> Using undeclared variables =>  int x;    Console.WriteLine(x);
-            //----------------------------------------
-            // *=> Mismatched parentheses () or braces {} => if(5>2){
+            // *=> Using undeclared variables =>  int x; Console.WriteLine(x);
+            //  ----------------------------------------
+            //   *=> Mismatched parentheses() or braces { } => if (5 > 2)
+            //  {
 
 
             //  2. ============ Runtime Errors (Exceptions) ============
             //----------------------------------------
             // *=> DivideByZeroException *************
-            //    int x = 10;
-            //    int y = 0;
-            //    int result = x / y;
-            //    Console.WriteLine(result);
+            //int x = 10;
+            //int y = 0;
+            //int result = x / y;
+            //Console.WriteLine(result);
             //----------------------------------------
             // *=> IndexOutOfRangeException **********
             //    int[] arr = { 1, 2, 3, 4 };
@@ -43,9 +45,9 @@ namespace Demo_01
             //-------------------------------------------------------
             // *=> Wrong comparison in a conditional statement ******
             // -- Age must be greater than18 ************************
-            //    int age = 19;
-            //    if (age <= 18)
-            //        Console.WriteLine("Age under 18 years old");
+            //int age = 19;
+            //if (age > 18)
+            //    Console.WriteLine("Age under 18 years old");
             //-------------------------------------------------------
             // *=> Using the wrong data types for variables    ******
             //    int age = "twenty"; 
@@ -122,44 +124,44 @@ namespace Demo_01
             #endregion
 
             #region Object
-                //Point P01;
-                //// Declare For Reference of Type Point “P1” Referencing to Null ==> 
-                //// 4 Bytes Allocated in Stack For Pointer|Reference 
-                //// 0 Bytes Allocated in Heap 
+            //Point P01;
+            //// Declare For Reference of Type Point “P1” Referencing to Null ==> 
+            //// 4 Bytes Allocated in Stack For Pointer|Reference 
+            //// 0 Bytes Allocated in Heap 
 
-                //P01 = new Point();
-                //// 1. Allocate Required Bytes at Heap
-                //// 2. Initialize Allocated Bytes Of Object With Default Value
-                //// 3. Call User Defined Constructor (If Exist)
-                //// 4. Assign Reference (P1) To Allocated Object
+            //P01 = new Point();
+            //// 1. Allocate Required Bytes at Heap
+            //// 2. Initialize Allocated Bytes Of Object With Default Value
+            //// 3. Call User Defined Constructor (If Exist)
+            //// 4. Assign Reference (P1) To Allocated Object
 
-                //Point P02 = new Point();
+            //Point P02 = new Point();
 
-                //P02 = P01;
-                //P02.X = 10;
-                //P02.Y = 20;
-                //Console.WriteLine(P02.ToString()+": Is NameSpace.ClassName");
-                //Console.WriteLine(P02.X.ToString() + " ya bro adf3.");//convert number into string.
-                //Console.WriteLine("=================================");
+            //P02 = P01;
+            //P02.X = 10;
+            //P02.Y = 20;
+            //Console.WriteLine(P02.ToString()+": Is NameSpace.ClassName");
+            //Console.WriteLine(P02.X.ToString() + " ya bro adf3.");//convert number into string.
+            //Console.WriteLine("=================================");
 
-                //Console.WriteLine(P01.Equals(P02));// True because P01.X = P02.X
-                //Console.WriteLine("=================================");
+            //Console.WriteLine(P01.Equals(P02));// True because P01.X = P02.X
+            //Console.WriteLine("=================================");
 
-                //Console.WriteLine(P01.Y.GetHashCode());// هيطبع قيمتها 
-                //Console.WriteLine(P01.GetHashCode());
-                //Console.WriteLine("=================================");
+            //Console.WriteLine(P01.Y.GetHashCode());// هيطبع قيمتها 
+            //Console.WriteLine(P01.GetHashCode());
+            //Console.WriteLine("=================================");
 
-                //Console.WriteLine(P01.X.GetType());//Returns Namespace.TypeName.
-                //Console.WriteLine(P01.GetType());//Returns Namespace.TypeName.
+            //Console.WriteLine(P01.X.GetType());//Returns Namespace.TypeName.
+            //Console.WriteLine(P01.GetType());//Returns Namespace.TypeName.
 
-                //object name = "Mahmoud";
-                //object Age = 21;
-                //object Year = 2004;
-                //Console.WriteLine("=================================");
-                //Console.WriteLine("Student Info: ");
-                //Console.WriteLine("Name Is: "+name);
-                //Console.WriteLine("Age Is: "+Age);
-                //Console.WriteLine("Year Is: "+Year);
+            //object name = "Mahmoud";
+            //object Age = 21;
+            //object Year = 2004;
+            //Console.WriteLine("=================================");
+            //Console.WriteLine("Student Info: ");
+            //Console.WriteLine("Name Is: "+name);
+            //Console.WriteLine("Age Is: "+Age);
+            //Console.WriteLine("Year Is: "+Year);
 
             #endregion
 
