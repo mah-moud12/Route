@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Demo_02
+namespace Demo_02.Enums
 {
     class User
     {

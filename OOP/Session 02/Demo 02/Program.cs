@@ -1,4 +1,5 @@
 ﻿using Demo_02.Encapsulation;
+using Demo_02.Enums;
 
 namespace Demo_02
 {
