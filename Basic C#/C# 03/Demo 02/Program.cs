@@ -1,4 +1,5 @@
 ﻿using Microsoft.VisualBasic;
+using System;
 using System.Diagnostics.Metrics;
 using System.Globalization;
 using static System.Runtime.InteropServices.JavaScript.JSType;
@@ -11,14 +12,14 @@ namespace Demo_02
         {
             #region (Fractions Or Float Point) And Discard
 
-            float floatNumber = 10.1234567f;
-            Console.WriteLine(floatNumber); // 10.123457
+            //float floatNumber = 10.1234567f;
+            //Console.WriteLine(floatNumber); // 10.123457
 
-            double doubleNumber = 1.123456789123456789; // 1.1234567891234568
-            Console.WriteLine(doubleNumber);
+            //double doubleNumber = 1.123456789123456789; // 1.1234567891234568
+            //Console.WriteLine(doubleNumber);
 
-            decimal decimalNumber = 10.123456789123456789123456789m;
-            Console.WriteLine(decimalNumber);
+            //decimal decimalNumber = 10.123456789123456789123456789m;
+            //Console.WriteLine(decimalNumber);
 
             //decimal mydecimalNumber = 100_000_000_000; // Underscores are for readability
             //Console.WriteLine(mydecimalNumber);
@@ -27,7 +28,7 @@ namespace Demo_02
 
             //CultureInfo myculture = new CultureInfo("ar-Sa"); // Saudi Riyals
             //Console.WriteLine(mydecimalNumber.ToString("c", myculture));//100?000?000?000?00 ر.س.? 
-            //                                             // => علشان لازم انزل اللغه العربية علشان الفورمات تشتغل
+            //                                                            // => علشان لازم انزل اللغه العربية علشان الفورمات تشتغل
             #endregion
 
             #region Casting
@@ -92,10 +93,31 @@ namespace Demo_02
             //    Console.WriteLine(number01);
             //}
 
+            //Defensive Programming
+            //ده المشكلة حصلت اما predictive code هو تنبأ ب error ومش ادالو فرصه انه يحص 
+            //اما Defensive Programming ساب exception يحصل وبعدين اتعامل معاه 
+            //الهدف منها منع انهيار البرنامج في حالة حدوث خطأ.
+
+            //try
+            //{
+            //    checked
+            //    {
+            //        long X = 1000487878374070;
+            //        int y = (int)X;
+            //        unchecked
+            //        {
+            //            Console.WriteLine(y);
+            //        }
+            //    }
+            //}
+            //catch
+            //{
+            //    Console.WriteLine("Try again beacause big number. ");
+            //}
+
             #endregion
 
             #region Example Two
-
             //int A = 15;
             //decimal B = A;
             //Console.WriteLine(B);
@@ -103,11 +125,20 @@ namespace Demo_02
             //---------------------------------------------------------------------------------
             //decimal C = 10.10m;
             ////int D = C;// Error بسبب انه مش هيقدر يحول تلقائي لازم استخدم Explicit
-            //           // C=> 8 Byte , D=> 4 Byte
+            //// C=> 8 Byte , D=> 4 Byte
 
             //int D = (int)C;// Explicit Casting [May Cause Loss Of Data]
             //Console.WriteLine(D);
-
+            //------------------------------------------
+            //solve problem using Predictive Code
+            //decimal a = 100000000220;
+            //if (a > int.MaxValue || a < int.MinValue)
+            //    Console.WriteLine("error");
+            //else
+            //{
+            //    int b = (int)a;
+            //    Console.WriteLine(b);
+            //}
             #endregion
 
 
@@ -152,7 +183,6 @@ namespace Demo_02
             //Console.Write("Age : ");
             //int Age = int.Parse(Console.ReadLine()); // [Explicit Casting]
 
-
             //Console.Write("Salary : ");
             //decimal salary = decimal.Parse(Console.ReadLine());
 
@@ -180,7 +210,7 @@ namespace Demo_02
             //Console.Write("Age : ");
             //int Age ;
             //bool flagAge = int.TryParse(Console.ReadLine(), out Age);
-
+            
 
             //Console.Write("Salary : ");
             //bool flagSalary = decimal.TryParse(Console.ReadLine(),out decimal salary);
@@ -311,6 +341,8 @@ namespace Demo_02
             //Result = a + (b * c) / d; // 20 + ( 15 * 10 ) / 5 = 50
 
             #endregion
+
+
             #endregion
 
             #region String Formatting

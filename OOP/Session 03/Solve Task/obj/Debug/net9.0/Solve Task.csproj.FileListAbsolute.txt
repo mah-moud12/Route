@@ -1,0 +1,15 @@
+C:\Users\Mr Ali\Music\Route\OOP\Session 03\Solve Task\bin\Debug\net9.0\Solve Task.exe
+C:\Users\Mr Ali\Music\Route\OOP\Session 03\Solve Task\bin\Debug\net9.0\Solve Task.deps.json
+C:\Users\Mr Ali\Music\Route\OOP\Session 03\Solve Task\bin\Debug\net9.0\Solve Task.runtimeconfig.json
+C:\Users\Mr Ali\Music\Route\OOP\Session 03\Solve Task\bin\Debug\net9.0\Solve Task.dll
+C:\Users\Mr Ali\Music\Route\OOP\Session 03\Solve Task\bin\Debug\net9.0\Solve Task.pdb
+C:\Users\Mr Ali\Music\Route\OOP\Session 03\Solve Task\obj\Debug\net9.0\Solve Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Ali\Music\Route\OOP\Session 03\Solve Task\obj\Debug\net9.0\Solve Task.AssemblyInfoInputs.cache
+C:\Users\Mr Ali\Music\Route\OOP\Session 03\Solve Task\obj\Debug\net9.0\Solve Task.AssemblyInfo.cs
+C:\Users\Mr Ali\Music\Route\OOP\Session 03\Solve Task\obj\Debug\net9.0\Solve Task.csproj.CoreCompileInputs.cache
+C:\Users\Mr Ali\Music\Route\OOP\Session 03\Solve Task\obj\Debug\net9.0\Solve Task.sourcelink.json
+C:\Users\Mr Ali\Music\Route\OOP\Session 03\Solve Task\obj\Debug\net9.0\Solve Task.dll
+C:\Users\Mr Ali\Music\Route\OOP\Session 03\Solve Task\obj\Debug\net9.0\refint\Solve Task.dll
+C:\Users\Mr Ali\Music\Route\OOP\Session 03\Solve Task\obj\Debug\net9.0\Solve Task.pdb
+C:\Users\Mr Ali\Music\Route\OOP\Session 03\Solve Task\obj\Debug\net9.0\Solve Task.genruntimeconfig.cache
+C:\Users\Mr Ali\Music\Route\OOP\Session 03\Solve Task\obj\Debug\net9.0\ref\Solve Task.dll
