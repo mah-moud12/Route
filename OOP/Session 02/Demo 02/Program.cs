@@ -1,5 +1,6 @@
 ﻿using Demo_02.Encapsulation;
 using Demo_02.Enums;
+using System.Reflection.PortableExecutable;
 
 namespace Demo_02
 {
@@ -8,6 +9,15 @@ namespace Demo_02
         static void Main(string[] args)
         {
             #region Enum
+            //اي المشكلة اللي حلتها :
+            //الـ enums بتخلينا نستبدل الأرقام أو النصوص اللي ملهاش معنى(اللي بنسميها magic numbers) بأسامي واضحة
+            //، وده بيخلي الكود أسهل في الفهم، ويقلل الأخطاء، ويسهّل الصيانة، وكمان بيخلّي الكود أكثر أمانًا لأن الـ IDE بيساعدنا واحنا بنكتب."
+            // Ex: 
+            //      if (user.Type == 3)
+            //      {
+            //          GiveDiscount();
+            //      }
+
             User U = new User();
             U.Id = 10;
             //الطريقة دي بتاخد مساحه 
@@ -58,16 +68,16 @@ namespace Demo_02
             //Point p01;//8 byte
 
             //p01 = new Point();
-            ////دي بتختلف عن Class دي مش Reference
-            ////New is just for constructor selection that used to initialize p01 attribute
-            ////يعني دي بتختار constructor اللي هتبتدي تعمل initialize ل attribute
+            //دي بتختلف عن Class دي مش Reference
+            //New is just for constructor selection that used to initialize p01 attribute
+            //يعني دي بتختار constructor اللي هتبتدي تعمل initialize ل attribute
 
             //Console.WriteLine(p01.X);
             //Console.WriteLine(p01.Y);
             #endregion
 
             #region Example02
-            //Point p01 = new Point(10,20);
+            //Point p01 = new Point(10, 20);
 
             //Console.WriteLine(p01.X);
             //Console.WriteLine(p01.Y);
@@ -78,14 +88,14 @@ namespace Demo_02
             //Console.WriteLine(p02.Y);
 
             //p02 = p01;
-
+            //Console.WriteLine("===================");
             //Console.WriteLine(p02.X);
             //Console.WriteLine(p02.Y);
 
             //p02.X = 5;
             ////follow presentation
             //Console.WriteLine(p01.X);
-
+            //------------------------------------------------------
 
             ////هنا هتكون ابطئ نسبيا يعني بشكل غير ملحوظ طب ليه هيا ابطئ علشان ببعتلها object هتروح تمرره :
             ////   ل function WriteLine وبعد متمرره هتروح تحولة 
@@ -98,18 +108,19 @@ namespace Demo_02
             ////ال struct مش object بس يقدر يتصرف اكنه Object 
 
             ////note
-            //// الـ struct مش بيدعم الوراثة، فإزاي بيورث من System.Object
-            ////    الـ struct مش بيورث من System.Object بالمعنى التقليدي زي الكلاسات. بدل كده، الـ CLR بيوفر دعم خاص للـ struct عشان يقدر يستخدم الدوال الأساسية بتاعة System.Object (زي ToString() و Equals()).
-            ////    الـ struct مش بيورث زي الكلاسات (يعني مش هتعرف تخلي struct يورث من struct تاني). لكن C# بيديله "إذن خاص" عشان يستخدم دوال System.Object من غير وراثة حقيقية.
+            //الـ struct مش بيدعم الوراثة، فإزاي بيورث من System.Object
+
+            //   الـ struct مش بيورث من System.Object بالمعنى التقليدي زي الكلاسات.بدل كده، الـ CLR بيوفر دعم خاص للـ struct عشان يقدر يستخدم الدوال الأساسية بتاعة System.Object(زي ToString() و Equals()).
+            //    الـ struct مش بيورث زي الكلاسات(يعني مش هتعرف تخلي struct يورث من struct تاني). لكن C# بيديله "إذن خاص" عشان يستخدم دوال System.Object من غير وراثة حقيقية.
             #endregion
 
 
             #endregion
 
             #region Encapsulation
-            //Employee emp = new Employee(10,"Ahmed",6000);
-            ////emp.Id = 10;// Set Id Direct By Attribute
-            ////Console.WriteLine(emp.Id);// Get Id Direct By Attribute
+            Employee emp = new Employee(10, "Ahmed", 6000);
+            //emp.Id = 10;// Set Id Direct By Attribute
+            //Console.WriteLine(emp.Id);// Get Id Direct By Attribute
             ////قبل ال Encapsulation كان فيه 3 مشاكل :
             //// 1 - اي تغير هعملة هيحس بيه العالم الخارجي 
             //// 2 - انا لو حاول امنع  ال set لإن انا عاوز امنع اي حد يعدل فهعمل Id private  صح ماشي بس هيطلعلك مشكلة لإنك مش هتعرف تعمل  get
@@ -139,13 +150,14 @@ namespace Demo_02
             PNB.AddPerson(1, "Ahmed", 456);
             PNB.AddPerson(2, "Amr", 789);
 
-            //Console.WriteLine(PNB.GetNumber("May"));
-            //PNB.SetNumber("May", 1020);
+            ////Console.WriteLine(PNB.GetNumber("May"));
+            ////PNB.SetNumber("May", 1020);
 
-            //Console.WriteLine(PNB.GetNumber("May"));
+            ////Console.WriteLine(PNB.GetNumber("May"));
 
 
-            PNB.DisplayAllPerson();
+
+            //PNB.DisplayAllPerson();
             #endregion
 
             #region indexer

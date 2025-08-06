@@ -9,8 +9,10 @@ namespace Demo_02.Encapsulation
     public struct Employee
     {
         #region Attribute
+
         private int Id;
         private string? Name; 
+        
         #endregion
 
         #region Constructor

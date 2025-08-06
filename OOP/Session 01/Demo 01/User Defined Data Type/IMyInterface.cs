@@ -18,7 +18,7 @@ namespace Demo_01.User_Defined_Data_Type
 
         //3. Default Implemented Method => C# 8.0 Feature .Net Core 3.1 [2019] 
 
-        void Display()
+        private void Display()
         {
             Console.WriteLine("Mahmoud");
         }

@@ -17,6 +17,7 @@ namespace Demo_02.Encapsulation
         public int Size { get { return size; } }
 
         #region Constructor
+
         public PhoneNotebook(int Size)
         {
             size = Size;
@@ -74,35 +75,37 @@ namespace Demo_02.Encapsulation
 
         #endregion
 
-        public int? this [string name]
-        {
-            get
-            {
-                int? pos = GetPosition(name);
-                if (pos is not null)
-                    return numbers[(int)pos];
-                else
-                    return null;
-            }
-            set
-            {
-                int? pos = GetPosition(name);
-                if (pos is not null)
-                    if(value is not null)
-                        numbers[(int)pos] = (int)value;
-            }
-        }
+        //public int? this [string name]
+        //{
+        //    get
+        //    {
+        //        int? pos = GetPosition(name);
+        //        if (pos is not null)
+        //            return numbers[(int)pos];
+        //        else
+        //            return null;
+        //    }
+        //    set
+        //    {
+        //        int? pos = GetPosition(name);
+        //        if (pos is not null)
+        //            if(value is not null)
+        //                numbers[(int)pos] = (int)value;
+        //    }
+        //}
 
-        public string this[int index]
-        {
-            get
-            {
-               if(size!=0 && names[0]!=null)
-                    return $"{index}|{names[index]}|{numbers[index]}";
-                else
-                    return "";
-            }
-        }
+
+
+        //public string this[int index]
+        //{
+        //    get
+        //    {
+        //        if (size != 0 && names[0] != null)
+        //            return $"{index}|{names[index]}|{numbers[index]}";
+        //        else
+        //            return "";
+        //    }
+        //}
 
 
     }

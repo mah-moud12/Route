@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Demo_01.User_Defined_Data_Type
 {
-    class MyEnum
+    enum MyEnum
     {
-        int label01, label02, label03, label04;
+         label01=1, label02, label03, label04
     }
 }

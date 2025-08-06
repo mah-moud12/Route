@@ -3,9 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Demo_02
 {
+    //اي المشكلة اللي حلتها :
+    //struct was introduced mainly to solve problems in the procedural or sequential programming paradigm,
+    //where there was a need to group related data into a single unit.
+    //It is not a solution to any problem specific to functional programming
     struct Point
     {
         #region Attribute

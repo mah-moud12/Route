@@ -1,6 +1,7 @@
 ﻿using ClassLibrary_01;
 using Demo_01.Enumsss;
 using System.Net.Http.Headers;
+
 namespace Demo_01
 {
     internal class Program
@@ -201,34 +202,36 @@ namespace Demo_01
 
             #region Class Library
 
-            //ده بروجكت عادي زي Console 
-            //بيكون فيه الكود المشترك يعني مثلا عندي website وعاوز انزله على الموبايل فهاخد الكود المشترك في website بدل مكتب الكود من الاول 
-            //مينفعش اعملة Run لإنه اخره dll(il)=> Compilation time
+
+            //ده بروجكت عادي زي Console
+            //بيكون فيه الكود المشترك يعني مثلا عندي website وعاوز انزله على الموبايل فهاخد الكود المشترك في website بدل مكتب الكود من الاول
+            //مينفعش اعملة Run لإنه اخره dll (il) => Compilation time
+            // بيفدني في تقليل الكود وتهيل maintanance يعني بدل مغير في كل البروجكت اعدل في class library بس 
+            //------------------------------------------------------------------------------------------------
+            // لو عاوز استخدمه باخد reference من DLL(Dynamic Link Library)
             //------------------------------------------------------------------
             //قبل ماخد reference من ClassLibrary
 
             //Product P = new Product();//Error لإن لسه معملتش Reference
-
-            //بعد لما عملت Reference 
-
+            //-----------------------------
+            //بعد لما عملت Reference
             //Product P = new Product();
             //P.Name = "Ahmed";
             //Console.WriteLine(P.Name);
-
 
             #endregion
 
             #region User Defined Data Type
             //follow presentation
-            // follow folder User Defined Data Type
+            //follow folder User Defined Data Type
             #endregion
 
             #region Access Modifier
 
             //Access_modifier_A A = new Access_modifier_A();
-            ////A.X=1; //Error beacause X IS Private 
+            //A.X=1; //Error beacause X IS Private 
 
-            ////A.Y = 10; //Error beacause X IS Internal مينفعش استخدمها خارج ال Project
+            //A.Y = 10; //Error beacause X IS Internal مينفعش استخدمها خارج ال Project
 
             //Console.WriteLine(A.Z); //Valid beacause X IS Public 
 
@@ -242,16 +245,42 @@ namespace Demo_01
             #region Example01
 
             Person P = new Person();
-            P.name = "Mahmoud";
-            P.id = 10;
-            P.gender = (Gender)1;
+            //P.name = "Mahmoud";
+            //P.id = 10;
+            //P.gender = (Gender)1;
 
-            Console.WriteLine(P.gender);
+            //Console.WriteLine(P.gender);
 
             ////enum هو int لإن القيم فيه بتتخزن ك ارقام 
             ////لما بتيجي تتخزن في data base بتتخزن في integer
-            int g00 = (int)Gender.Male;
-            Console.WriteLine(g00);
+            //int g00 = (int)Gender.Male;
+            //Console.WriteLine(g00);
+
+            //check علشان explicit is unsafe
+            //**********************Enum.IsDefined(Type enumType, object value)***************************
+            // Two Example : 
+            //   1 -> int -> Gender
+            //   2 -> string -> Gender
+
+
+            //   1 -> int -> Gender
+            //int input =2;
+            //if (Enum.IsDefined(typeof(Gender), input))
+            //{
+            //    Gender g = (Gender)input;
+            //    Console.WriteLine($"Input is valid : {g}");
+            //}else
+            //    Console.WriteLine("input is invalid");
+            //--------------------------
+            //   2 -> string -> Gender
+            //string gender = "Male";
+            //if (Enum.IsDefined(typeof(Gender ), gender) && Enum.TryParse(gender, out Gender gender1)) {
+            //    //Gender g =(Gender) Enum.Parse(typeof(Gender),gender);
+            //    Console.WriteLine($"Input is valid : {gender1}");
+            //}
+            //else
+            //    Console.WriteLine("input is invalid" );
+
 
             ////----------------------------------------------------
             ////----------------------------------------------------
@@ -302,7 +331,7 @@ namespace Demo_01
 
             ////Name
             //Console.Write("Enter Name : ");
-            //S2.name = Console.ReadLine()??"No Name Entered";
+            //S2.name = Console.ReadLine() ?? "No Name Entered";
 
             ////Grade
             //Console.Write("Enter Grade : ");
@@ -310,7 +339,7 @@ namespace Demo_01
             //Grade G01;
             //do
             //{
-            //    flagGrade = Enum.TryParse(Console.ReadLine(), out G01);
+            //    flagGrade = Enum.TryParse<Grade>(Console.ReadLine(), out G01);
             //} while (!flagGrade);
 
 
@@ -342,9 +371,6 @@ namespace Demo_01
             #endregion
 
             #endregion
-
-
-
 
 
         }

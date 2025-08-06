@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Demo_02.Enums
 {
-    [Flags]
+    [Flags] // بتخليك تستخدم bitwise operator 
     enum Permision:byte
     {
         //Follow Presentation

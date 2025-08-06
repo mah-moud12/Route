@@ -9,7 +9,7 @@ namespace Demo_01.Enumsss
     class Person
     {
         public int id { get; set; }
-        public string name { get; set; }
+        public string? name { get; set; }
         public Gender gender { get; set; }
 
     }
