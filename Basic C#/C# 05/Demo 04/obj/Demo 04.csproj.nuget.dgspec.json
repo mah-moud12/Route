@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mr Ali\\Music\\Basic C#\\C# 05\\Demo 04\\Demo 04.csproj": {}
+    "C:\\Users\\Mr Ali\\Music\\Route\\Basic C#\\C# 05\\Demo 04\\Demo 04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mr Ali\\Music\\Basic C#\\C# 05\\Demo 04\\Demo 04.csproj": {
+    "C:\\Users\\Mr Ali\\Music\\Route\\Basic C#\\C# 05\\Demo 04\\Demo 04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mr Ali\\Music\\Basic C#\\C# 05\\Demo 04\\Demo 04.csproj",
+        "projectUniqueName": "C:\\Users\\Mr Ali\\Music\\Route\\Basic C#\\C# 05\\Demo 04\\Demo 04.csproj",
         "projectName": "Demo 04",
-        "projectPath": "C:\\Users\\Mr Ali\\Music\\Basic C#\\C# 05\\Demo 04\\Demo 04.csproj",
+        "projectPath": "C:\\Users\\Mr Ali\\Music\\Route\\Basic C#\\C# 05\\Demo 04\\Demo 04.csproj",
         "packagesPath": "C:\\Users\\Mr Ali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mr Ali\\Music\\Basic C#\\C# 05\\Demo 04\\obj\\",
+        "outputPath": "C:\\Users\\Mr Ali\\Music\\Route\\Basic C#\\C# 05\\Demo 04\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

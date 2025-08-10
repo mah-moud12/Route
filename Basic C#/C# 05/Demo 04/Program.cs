@@ -49,7 +49,6 @@ namespace Demo_04
             //{
             //    Console.WriteLine("Enter the even number.");
             //    isParse = int.TryParse(Console.ReadLine(), out number);
-
             //} while (number % 2 == 1 || !isParse);
             //Console.Clear();
             //Console.WriteLine("The even number is: {0}", number);
@@ -70,12 +69,12 @@ namespace Demo_04
             //}
 
 
-
-
-
             #endregion
 
             #endregion
+
+
+
             #endregion
 
             #region String 
@@ -89,11 +88,11 @@ namespace Demo_04
             //                                   //Name → 🔹 موجود في Stack -> بيشاور على النسخة اللي في Heap(مش اللي في pool)
             //Console.WriteLine($"Name = {Name}");
             //Console.WriteLine($"HashCode = {Name.GetHashCode()}");
-            ////------------------------------------------------------------
+            //////------------------------------------------------------------
             //string Name02 = "Route"; // 10 bytes
             //                         //"Route" already exists in String Intern Pool.
             //                         //Name02 →🔹 موجود في Stack،-> 🔹 بيشاور مباشرة على النسخة في pool(اللي اتخزنت من السطر الأول).
-
+            //Console.WriteLine("==============================");
             //Console.WriteLine($"Name02 = {Name02}");
             //Console.WriteLine($"HashCode2 = {Name02.GetHashCode()}");
 
@@ -103,6 +102,7 @@ namespace Demo_04
             ////Name و Name02 يشاوروا على أماكن مختلفة.
             ////القيم متساوية (== ✅)، لكن المراجع مختلفة (ReferenceEquals ❌).
             ////بص على الصورة اللي في demo
+            ////لو "Route" مش موجودة في String Intern Pool، الـ CLR هينشئ نسخة جديدة منها في الـ Heap، ويحط مرجعها في الـ Pool، والـ Name02 هيشاور على النسخة الجديدة.
 
             #endregion
 
@@ -110,10 +110,10 @@ namespace Demo_04
             //string name01 = new string("Mahmoud");
             //string name02 = "Mahmoud";
 
-            //Console.WriteLine("Your Name is : {0}",name01);
-            //Console.WriteLine("Hash Code to name01 : {0}",name01.GetHashCode());
+            //Console.WriteLine("Your Name is : {0}", name01);
+            //Console.WriteLine("Hash Code to name01 : {0}", name01.GetHashCode());
 
-            //Console.WriteLine("Your Name is : {0}",name02);
+            //Console.WriteLine("Your Name is : {0}", name02);
             //Console.WriteLine("Hash Code to name02 : {0}", name02.GetHashCode());
 
             //name02 = name01;
@@ -126,7 +126,7 @@ namespace Demo_04
             //Console.WriteLine("Your Name is : {0}", name02);
             //Console.WriteLine("Hash Code to name02 : {0}", name02.GetHashCode());
 
-            //Console.WriteLine(ReferenceEquals(name01,name02));//true
+            //Console.WriteLine(ReferenceEquals(name01, name02));//true
             //// لو ال hashCode بتاع name01 بيساوي hashCode بتاع name02 ده مش معناه انهم بيشاوروا على نفس المكان في heap
             ////لكن لازم ReferenceEquals(Name, Name02) ترجع true علشان اعرف انهم بيشاوروا على نفس المكان 
 
@@ -147,8 +147,8 @@ namespace Demo_04
             #region Example 03
             //string message = "Hello, ";
             //// message بيشاور على hello في heap 
-            //Console.WriteLine("Your Message Is : {0}",message);
-            //Console.WriteLine("Your Message to Hash Code Is : {0}",message.GetHashCode());
+            //Console.WriteLine("Your Message Is : {0}", message);
+            //Console.WriteLine("Your Message to Hash Code Is : {0}", message.GetHashCode());
 
             //Console.WriteLine("Message after assign.");
 
@@ -174,15 +174,23 @@ namespace Demo_04
             //Console.WriteLine(name.Contains("Mahmoud"));
             //Console.WriteLine(name.Contains('o'));
             //Console.WriteLine(name.ToUpper());
-            //Console.WriteLine(name.ToLower());
+            //Console.WriteLine(name.Equals(name));
+            //string n=name.Remove(0,4);
+            //Console.WriteLine(n);
+            //Console.WriteLine(name.IndexOf('M'));
+            //name.Split();
+            //Console.WriteLine(name.Insert(0,"MMM"));
             #endregion
 
             #region String Builder
-            ////StringBuilder name ="mahmoud";  //Error لانه مش هيعرف يعمل casting
+            //StringBuilder name = "mahmoud";  //Error لانه مش هيعرف يعمل casting
             //StringBuilder name = new StringBuilder("Mahmoud");
+            //StringBuilder Name01 = new StringBuilder("Mahmoud");
 
-            //Console.WriteLine("Your Name Is: {0}",name);
-            //Console.WriteLine("Your Name To Hash Code IS: {0}",name.GetHashCode());
+            //Console.WriteLine("Your Name Is: {0}", name);
+            //Console.WriteLine("Your Name To Hash Code IS: {0}", name.GetHashCode());
+
+            //Console.WriteLine("Your Name01 To Hash Code IS: {0}", Name01.GetHashCode());// hashCode مختلف لان هو مش نفس object
 
             //Console.WriteLine("After Assign.");
 
@@ -203,10 +211,11 @@ namespace Demo_04
             //Console.WriteLine(Message);
 
             //Console.WriteLine("============================");
-            //Message.AppendLine("Hoda ");      
+            //Message.AppendLine("Hoda ");
             //Console.WriteLine(Message);
             //Console.WriteLine("============================");
-            //Message.Append("Your Age is 21"); 
+            //Message.Append("Your Age is 21");
+            
             //Console.WriteLine(Message);
             //Console.WriteLine("============================");
             //Message.Replace('H', 'h');

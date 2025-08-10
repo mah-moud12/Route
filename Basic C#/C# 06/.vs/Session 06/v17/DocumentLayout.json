@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mr Ali\\Music\\Basic C#\\C# 06\\Session 06\\",
+  "WorkspaceRootPath": "C:\\Users\\Mr Ali\\Music\\Route\\Basic C#\\C# 06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05C4296B-885C-4EC9-BE27-204046A91650}|Solve Task 03\\Solve Task 03.csproj|c:\\users\\mr ali\\music\\basic c#\\c# 06\\session 06\\solve task 03\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05C4296B-885C-4EC9-BE27-204046A91650}|Solve Task 03\\Solve Task 03.csproj|solutionrelative:solve task 03\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EABE50-FDF8-42A3-80BD-F51EC9F3B766}|Demo 05\\Demo 05.csproj|c:\\users\\mr ali\\music\\basic c#\\c# 06\\session 06\\demo 05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19EABE50-FDF8-42A3-80BD-F51EC9F3B766}|Demo 05\\Demo 05.csproj|c:\\users\\mr ali\\music\\route\\basic c#\\c# 06\\demo 05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19EABE50-FDF8-42A3-80BD-F51EC9F3B766}|Demo 05\\Demo 05.csproj|solutionrelative:demo 05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05C4296B-885C-4EC9-BE27-204046A91650}|Solve Task 03\\Solve Task 03.csproj|c:\\users\\mr ali\\music\\basic c#\\c# 06\\session 06\\solve task 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05C4296B-885C-4EC9-BE27-204046A91650}|Solve Task 03\\Solve Task 03.csproj|solutionrelative:solve task 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\Basic C#\\C# 06\\Demo 05\\Program.cs",
+              "RelativeDocumentMoniker": "Demo 05\\Program.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\Basic C#\\C# 06\\Demo 05\\Program.cs*",
+              "RelativeToolTip": "Demo 05\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowH4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:27:42.368Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
@@ -39,45 +44,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Basic C#\\C# 06\\Session 06\\Solve Task 03\\Student.cs",
-              "RelativeDocumentMoniker": "Solve Task 03\\Student.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Basic C#\\C# 06\\Session 06\\Solve Task 03\\Student.cs",
-              "RelativeToolTip": "Solve Task 03\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T20:31:55.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Basic C#\\C# 06\\Session 06\\Solve Task 03\\Program.cs",
-              "RelativeDocumentMoniker": "Solve Task 03\\Program.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Basic C#\\C# 06\\Session 06\\Solve Task 03\\Program.cs",
-              "RelativeToolTip": "Solve Task 03\\Program.cs",
-              "ViewState": "AgIAAK0AAAAAAAAAAAAmwAMBAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T19:36:09.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Basic C#\\C# 06\\Session 06\\Demo 05\\Program.cs",
-              "RelativeDocumentMoniker": "Demo 05\\Program.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Basic C#\\C# 06\\Session 06\\Demo 05\\Program.cs",
-              "RelativeToolTip": "Demo 05\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T12:27:15.669Z",
-              "EditorCaption": ""
             }
           ]
         }

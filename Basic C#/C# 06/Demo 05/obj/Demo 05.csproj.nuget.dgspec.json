@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mr Ali\\Music\\Basic C#\\C# 06\\Session 06\\Demo 05\\Demo 05.csproj": {}
+    "C:\\Users\\Mr Ali\\Music\\Route\\Basic C#\\C# 06\\Demo 05\\Demo 05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mr Ali\\Music\\Basic C#\\C# 06\\Session 06\\Demo 05\\Demo 05.csproj": {
+    "C:\\Users\\Mr Ali\\Music\\Route\\Basic C#\\C# 06\\Demo 05\\Demo 05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mr Ali\\Music\\Basic C#\\C# 06\\Session 06\\Demo 05\\Demo 05.csproj",
+        "projectUniqueName": "C:\\Users\\Mr Ali\\Music\\Route\\Basic C#\\C# 06\\Demo 05\\Demo 05.csproj",
         "projectName": "Demo 05",
-        "projectPath": "C:\\Users\\Mr Ali\\Music\\Basic C#\\C# 06\\Session 06\\Demo 05\\Demo 05.csproj",
+        "projectPath": "C:\\Users\\Mr Ali\\Music\\Route\\Basic C#\\C# 06\\Demo 05\\Demo 05.csproj",
         "packagesPath": "C:\\Users\\Mr Ali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mr Ali\\Music\\Basic C#\\C# 06\\Session 06\\Demo 05\\obj\\",
+        "outputPath": "C:\\Users\\Mr Ali\\Music\\Route\\Basic C#\\C# 06\\Demo 05\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

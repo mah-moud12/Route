@@ -1,0 +1,15 @@
+C:\Users\Mr Ali\Music\Route\OOP\Session 05\Demo 05\bin\Debug\net9.0\Demo 05.exe
+C:\Users\Mr Ali\Music\Route\OOP\Session 05\Demo 05\bin\Debug\net9.0\Demo 05.deps.json
+C:\Users\Mr Ali\Music\Route\OOP\Session 05\Demo 05\bin\Debug\net9.0\Demo 05.runtimeconfig.json
+C:\Users\Mr Ali\Music\Route\OOP\Session 05\Demo 05\bin\Debug\net9.0\Demo 05.dll
+C:\Users\Mr Ali\Music\Route\OOP\Session 05\Demo 05\bin\Debug\net9.0\Demo 05.pdb
+C:\Users\Mr Ali\Music\Route\OOP\Session 05\Demo 05\obj\Debug\net9.0\Demo 05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Ali\Music\Route\OOP\Session 05\Demo 05\obj\Debug\net9.0\Demo 05.AssemblyInfoInputs.cache
+C:\Users\Mr Ali\Music\Route\OOP\Session 05\Demo 05\obj\Debug\net9.0\Demo 05.AssemblyInfo.cs
+C:\Users\Mr Ali\Music\Route\OOP\Session 05\Demo 05\obj\Debug\net9.0\Demo 05.csproj.CoreCompileInputs.cache
+C:\Users\Mr Ali\Music\Route\OOP\Session 05\Demo 05\obj\Debug\net9.0\Demo 05.sourcelink.json
+C:\Users\Mr Ali\Music\Route\OOP\Session 05\Demo 05\obj\Debug\net9.0\Demo 05.dll
+C:\Users\Mr Ali\Music\Route\OOP\Session 05\Demo 05\obj\Debug\net9.0\refint\Demo 05.dll
+C:\Users\Mr Ali\Music\Route\OOP\Session 05\Demo 05\obj\Debug\net9.0\Demo 05.pdb
+C:\Users\Mr Ali\Music\Route\OOP\Session 05\Demo 05\obj\Debug\net9.0\Demo 05.genruntimeconfig.cache
+C:\Users\Mr Ali\Music\Route\OOP\Session 05\Demo 05\obj\Debug\net9.0\ref\Demo 05.dll
