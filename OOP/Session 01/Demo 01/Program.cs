@@ -18,7 +18,7 @@ namespace Demo_01
             //int X = 100;
 
             //object obj = X;//implicit[Safe]
-            ////object obj = (object)X;   //معملتش Explicit لإن ال Object يقدر يشيل اي حاجه
+            //object obj01 = (object)X;   //معملتش Explicit لإن ال Object يقدر يشيل اي حاجه
 
             //obj = 1.2;//boxing
             //obj = 'A';//boxing
@@ -28,10 +28,15 @@ namespace Demo_01
             ////Converting a reference type to a value type (object)
             ////هنا شيلت الحاجه من boxing اللي في heap وحطتها في stack 
 
-            //object obj = 20;
-
-            //int X = (int)obj;//Explicit Casting [Unsafe]
-
+            //object? obj = 10;
+            ////int X = (int)obj;//Explicit Casting [Unsafe]
+            ////anathor solution 
+            //int X;
+            //if (obj is int value)
+            //{
+            //    X = value;
+            //    Console.WriteLine($"X = {X}");
+            //}
             //object obj02 = "mahmoud";
             //int Y = (int)obj02;//System.InvalidCastException:
 
@@ -56,7 +61,8 @@ namespace Demo_01
             //int? Y = null;
             //Console.WriteLine(Y);// هيطبع سطر فاضي 
 
-
+            //Nullable<char> A = null;
+            //Nullable<bool> B=true;
             #endregion
 
             #region Example02
@@ -83,29 +89,27 @@ namespace Demo_01
             //W = Z.HasValue ? (int)Z : 0;
             //W = Z.HasValue ? Z.Value : 0;
 
-            //W = Z.GetValueOrDefault();//لو هيا مش null هترجع Zero
+            //W = Z.GetValueOrDefault();
 
             //W = Z ?? 0;//Null-Coalescing Operator
-
-
 
             #endregion
 
             #endregion
 
             #region Nullable Reference type
-            //            String? Name = null;//هنا بقولهه خلي بالك reference Type دي بتقبل null
-            //            Console.WriteLine(Name);// هيطبع سطر فاضي 
+            String? Name = null;//هنا بقولهه خلي بالك reference Type دي بتقبل null
+            Console.WriteLine(Name);// هيطبع سطر فاضي 
 
-            //            //بص على Data annotation وخليها disable
+            //بص على Data annotation وخليها disable
 
-            //            //------------------------------------
-            //#nullable disable // دي بتساعدني اني اشيل ال warning من مناطق معينه
-            //            string name02 = null;
-            //#nullable enable
-            //            //------------------------------------
+            //------------------------------------
+#nullable disable // دي بتساعدني اني اشيل ال warning من مناطق معينه
+            string name02 = null;
+#nullable enable
+            //------------------------------------
 
-            //            string name03 = null!;// null-forgiving operator
+            string name03 = null!;// null-forgiving operator
             #endregion
 
             #region Null-Conditional | Propagation operato
@@ -134,8 +138,8 @@ namespace Demo_01
             ////second way 
 
             //Console.WriteLine(employee02?.Department?.Name ?? "Not Found");
-            //Employee=null -> "Not Found"
-            //Department=null -> "Not Found"
+            //Employee = null-> "Not Found"
+            //Department = null-> "Not Found"
             #endregion
 
             #region Example02
@@ -199,6 +203,12 @@ namespace Demo_01
 
 
             #endregion
+
+
+
+
+
+
 
             #region Class Library
 

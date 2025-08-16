@@ -18,7 +18,7 @@ namespace Demo_04.Overloading
             string[]? names = U01?.FullName?.Split(" ");
             return new UserViewModel
             {
-                Id = U01.Id,
+                Id = U01?.Id??0,
                 FirstName = names?[0],
                 LastName = names?[1]?.Length > 2 && names.Length>1? names[1] : null,
                 Email = U01?.Email

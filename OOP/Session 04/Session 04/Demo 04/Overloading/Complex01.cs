@@ -86,7 +86,24 @@ namespace Demo_04.Overloading
             else
                 return C1.Real < C2.Real;
         }
-
+        public static bool operator ==(Complex01 C1,Complex01 C2)
+        {
+                return C1.Real == C2.Real;
+        }
+        public static bool operator !=(Complex01 C1, Complex01 C2)
+        {
+                return C1.Real != C2.Real;
+        }
+        
+        //logic
+        public static bool operator true(Complex01 C1)
+        {
+            return C1.Real >0;
+        }
+        public static bool operator false (Complex01 C1)
+        {
+            return C1.Real < 0 && C1.Img<0;
+        }
         #endregion
 
         #region Casting Overloading 

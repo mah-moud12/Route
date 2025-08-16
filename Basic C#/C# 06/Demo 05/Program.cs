@@ -12,7 +12,7 @@
         #region Method
 
         #region Example 01
-        // public static void printShape()
+        //public static void printShape()
         //{
         //    for (int i = 0; i < 5; i++)
         //    {
@@ -22,7 +22,7 @@
         #endregion
 
         #region Example 02
-        //public static void printShape02(string pattern="(@:=>_*_<=:@)" , int count=3)
+        //public static void printShape02(string pattern = "(@:=>_*_<=:@)", int count = 3)
         //{
         //    for (int i = 0; i < count; i++)
         //    {
@@ -34,7 +34,7 @@
         #region [Value Type]
 
         #region Passing by value 
-        //public static void SwapValue(int X,int Y)
+        //public static void SwapValue(int X, int Y)
         //{
         //    int Temp = X;
         //    X = Y;
@@ -43,8 +43,7 @@
         #endregion
 
         #region Passing by reference
-
-        //public static void SwapRefer(ref int X,ref int Y)
+        //public static void SwapRefer(ref int X, ref int Y)
         //{
         //    int Temp = X;
         //    X = Y;
@@ -117,36 +116,34 @@
         //{
         //    int sum = x + y;
         //    int sub = x - y;
+        //    int div = x / y;
 
         //    //return new int[] { sum, sub };
-        //    return [sum, sub];
+        //    return [sum, sub,div];
         //}
 
-        // improve solution 
+        ////improve solution
 
-        //public static void SumSub(int x, int y,out int sum,out int sub)
+        //public static void SumSub(int x, int y, out int sum, out int sub)
         //{
         //    sum = x + y;
         //    sub = x - y;
-
         //}
 
 
 
         #endregion
-
-
         #endregion
 
         #region Function parameter params
 
-        //public static void Params(int x ,params int[] arr)
-        //{
-        //    for (int i = 0; i < arr.Length; i++)
-        //    {
-        //        Console.Write(x+" "+arr[i]+" ");
-        //    }
-        //}
+        public static void Params(int x, params int[] arr)
+        {
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.Write(x + " " + arr[i] + " ");
+            }
+        }
 
         #endregion
 
@@ -216,19 +213,19 @@
             #region function Prototype
             //printShape();
 
-            //pass parameter by order
-            //printShape02("/#||#\\",4);
+            ////pass parameter by order
+            //printShape02("/#||#\\", 4);
 
-            //pass parameter by Name
+            ////pass parameter by Name
             //printShape02(count: 4, pattern: "/#||#\\");
 
-            //pass parameter by default
+            ////pass parameter by default
             //printShape02();
             #endregion
 
             #region Escape sequences
 
-            ////Console.WriteLine("mahmoud \ mohamed ");// Error 
+            //Console.WriteLine("mahmoud \ mohamed ");// Error 
 
             ////one solution
             //Console.WriteLine(@"Mahmoud \ mohamed");
@@ -248,17 +245,16 @@
 
             #region Pssing by Value
 
-            //int A=5;
-            //int B=3;
+            //int A = 5;
+            //int B = 3;
             //Console.WriteLine(A);
             //Console.WriteLine(B);
             //SwapValue(A, B);
             //Console.WriteLine("After swap");
             //Console.WriteLine(A);
             //Console.WriteLine(B);
-
-            ////مش هيحصل تبديل لإن انت باعت قيمة المتغير 
-            ////شوف presentation
+            //مش هيحصل تبديل لإن انت باعت قيمة المتغير 
+            //شوف presentation
             #endregion
 
             #region Passing by Reference
@@ -271,19 +267,16 @@
             //Console.WriteLine("After swap");
             //Console.WriteLine(A);
             //Console.WriteLine(B);
-
-            ////هيحصل تغير لان انت بعتت المتغير نفسه 
-            ////شوف ال presentation
-            ////اعمل debug علشان تتاكد
+            //هيحصل تغير لان انت بعتت المتغير نفسه 
+            //شوف ال presentation
+            //اعمل debug علشان تتاكد
             #endregion
-
 
             #endregion
 
             #region Function Paramter [Reference Type]
 
             #region Passing by Value 
-
             //int[] numbers = { 1, 2, 3 };
             //int res = SumArray(numbers);
             ////هنا اكني عملت كده numbers = arr
@@ -294,8 +287,6 @@
             ////follow presentation
             //Console.WriteLine(res);
             //Console.WriteLine(numbers[0]);
-
-
             #endregion
 
             #region Passing by value anthor Example
@@ -305,6 +296,7 @@
             ////follow presentation slide(32)
             //Console.WriteLine(res);
             //Console.WriteLine(numbers[0]);
+
             #endregion
 
             #region Passing by Reference
@@ -355,9 +347,9 @@
             #endregion
 
             #region Function parameter params
-            //int[] arr = { 1, 2, 3, 4, 5, 1, 2 };
+            int[] arr = { 1, 2, 3, 4, 5, 1, 2 };
 
-            //Params(1, 22, 3, 4, 5, 64, 6, 45, 4,33);
+            Params(1, 22, 3, 4, 5, 64, 6, 45, 4,33);
 
             #endregion
 

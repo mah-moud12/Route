@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54842F14-C74D-49D9-8767-5C7E395053E7}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 04\\session 04\\solve task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54842F14-C74D-49D9-8767-5C7E395053E7}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54842F14-C74D-49D9-8767-5C7E395053E7}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 04\\session 04\\solve task\\part02\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54842F14-C74D-49D9-8767-5C7E395053E7}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\part02\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54842F14-C74D-49D9-8767-5C7E395053E7}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 04\\session 04\\solve task\\part01\\question 05\\derivedclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54842F14-C74D-49D9-8767-5C7E395053E7}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\part01\\question 05\\derivedclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54842F14-C74D-49D9-8767-5C7E395053E7}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 04\\session 04\\solve task\\part01\\question 05\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54842F14-C74D-49D9-8767-5C7E395053E7}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\part01\\question 05\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54842F14-C74D-49D9-8767-5C7E395053E7}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 04\\session 04\\solve task\\part01\\question 05\\derivedclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54842F14-C74D-49D9-8767-5C7E395053E7}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\part01\\question 05\\derivedclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54842F14-C74D-49D9-8767-5C7E395053E7}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 04\\session 04\\solve task\\part01\\question 04\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54842F14-C74D-49D9-8767-5C7E395053E7}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\part01\\question 04\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54842F14-C74D-49D9-8767-5C7E395053E7}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 04\\session 04\\solve task\\part01\\question 03\\complex number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54842F14-C74D-49D9-8767-5C7E395053E7}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\part01\\question 03\\complex number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54842F14-C74D-49D9-8767-5C7E395053E7}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 04\\session 04\\solve task\\part01\\qestion 02\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54842F14-C74D-49D9-8767-5C7E395053E7}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\part01\\qestion 02\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BCC4FE3-1FDA-4592-9D0A-F4432A175543}|Demo 04\\Demo 04.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 04\\session 04\\demo 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCC4FE3-1FDA-4592-9D0A-F4432A175543}|Demo 04\\Demo 04.csproj|solutionrelative:demo 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,100 +34,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Duration.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\Solve Task\\Part02\\Duration.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Part02\\Duration.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\Solve Task\\Part02\\Duration.cs",
-              "RelativeToolTip": "Solve Task\\Part02\\Duration.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAAwJMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T15:47:42.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DerivedClass2.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\Solve Task\\Part01\\Question 05\\DerivedClass2.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Part01\\Question 05\\DerivedClass2.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\Solve Task\\Part01\\Question 05\\DerivedClass2.cs",
-              "RelativeToolTip": "Solve Task\\Part01\\Question 05\\DerivedClass2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T15:28:55.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DerivedClass1.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\Solve Task\\Part01\\Question 05\\DerivedClass1.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Part01\\Question 05\\DerivedClass1.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\Solve Task\\Part01\\Question 05\\DerivedClass1.cs",
-              "RelativeToolTip": "Solve Task\\Part01\\Question 05\\DerivedClass1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T15:27:09.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseClass.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\Solve Task\\Part01\\Question 05\\BaseClass.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Part01\\Question 05\\BaseClass.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\Solve Task\\Part01\\Question 05\\BaseClass.cs",
-              "RelativeToolTip": "Solve Task\\Part01\\Question 05\\BaseClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T15:25:50.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\Solve Task\\Part01\\Question 04\\Employee.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Part01\\Question 04\\Employee.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\Solve Task\\Part01\\Question 04\\Employee.cs",
-              "RelativeToolTip": "Solve Task\\Part01\\Question 04\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T15:14:36.632Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\Solve Task\\Program.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Program.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\Solve Task\\Program.cs",
-              "RelativeToolTip": "Solve Task\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\Demo 04\\Program.cs",
+              "RelativeDocumentMoniker": "Demo 04\\Program.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\Demo 04\\Program.cs",
+              "RelativeToolTip": "Demo 04\\Program.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAgwJkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T14:13:14.495Z",
+              "WhenOpened": "2025-08-15T11:45:50.324Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Complex number.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\Solve Task\\Part01\\Question 03\\Complex number.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Part01\\Question 03\\Complex number.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\Solve Task\\Part01\\Question 03\\Complex number.cs",
-              "RelativeToolTip": "Solve Task\\Part01\\Question 03\\Complex number.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCQAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T14:55:59.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\Solve Task\\Part01\\Qestion 02\\Rectangle.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Part01\\Qestion 02\\Rectangle.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 04\\Session 04\\Solve Task\\Part01\\Qestion 02\\Rectangle.cs",
-              "RelativeToolTip": "Solve Task\\Part01\\Qestion 02\\Rectangle.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T14:40:30.369Z"
             }
           ]
         }

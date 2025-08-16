@@ -27,7 +27,7 @@ namespace Demo_04.Overriding
         {
             Console.WriteLine("I am Drived");
         }
-        //using keyword "new" to hiding inherit member TypeA.MyFun01()
+        //using keyword "new" to hiding inherit member TypeA.MyFun02()
         //compile time
         public new void MyFun02()
         {

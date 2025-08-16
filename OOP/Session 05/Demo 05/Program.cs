@@ -60,6 +60,7 @@ namespace Demo_05
         static void Main(string[] args)
         {
             #region Binding
+
             #region Example01
             ////Ref from Parent [Base] => object From Child[Derivd]
             ////الأب ممكن يشاور على الابن او الحفيد  يعني اي كلاس بيورث منه او يشاور على نفسه ههههه
@@ -67,7 +68,7 @@ namespace Demo_05
             //Overriding.TypeA TA01 = new Overriding.TypeB(1, 2);
             //TA01.A = 10;// هنا عادي لانها تبعة 
             ////TA01.B = 20;// Invalid لان  ال B مش تبعه تبعه تبع ال child 
-            ////((Overriding.TypeB)TA01).B = 20;
+            //((Overriding.TypeB)TA01).B = 20;
             //TA01.MyFun01();// Static Polymerphism - Static Binding - Early Binding
             //               // Compilation Time
             //               // I am Base لانه معملش virtual فهيروح على الخاصة بيه 
@@ -93,7 +94,7 @@ namespace Demo_05
             //Overriding.TypeA typeA = new Overriding.TypeB(1, 2);
             //typeA.MyFun01();// I am Base
             ////typeA.B = 10;// Invalid لان هيا مش خاصة بيه 
-            //typeA.MyFun02();// A = 1   ,   B = 2 --> لان هو راح لقها virtual فهيروح  للي في ال object بس لو الفانكشن اللي في الاوبجكت كان معمولها new بدل override كان هيروح للي قابليها في الوراثه 
+            //typeA.MyFun02();// A = 1   ,   B = 2 --> لان هو راح لقها virtual فهيروح  للي في ال object بس لو الفانكشن اللي في الاوبجكت كان معمولها new بدل override كان هيروح للي تبع reference في الوراثه 
             //***************************************************************************************************
             //Overriding.TypeA typeA = new Overriding.TypeC(1, 2, 3);
             //typeA.MyFun01();//I am Base
@@ -127,6 +128,7 @@ namespace Demo_05
             //((Overriding.TypeB)typeA).print();
 
             #endregion
+
             #endregion
 
             #region Interface 
@@ -144,7 +146,6 @@ namespace Demo_05
             //type01.X = 10;
             //type01.Print();// Invalid لان دية مش موجوده في implementation  
             #endregion
-
 
             #region Example02
             //Interface.TypeA typeA = new Interface.TypeA();
@@ -180,8 +181,9 @@ namespace Demo_05
             //movementOnGround1.Left();
             //movementOnGround1.Right();
             #endregion
-            #endregion 
 
-        } 
+            #endregion
+
+        }
     }
 }

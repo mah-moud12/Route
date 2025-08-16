@@ -10,7 +10,7 @@ namespace Solve_Task_01
     {
         public void SendNotification(string name, out string message)
         {
-            if (name is not null)
+            if (name is not null)   
                 message = $"{name}, You have new message";
             else
                 message = $"No Name Please Enter Again";

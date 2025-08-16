@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 06\\solve task\\discount applicability\\specificuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\discount applicability\\specificuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 06\\solve task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 06\\solve task\\discounts\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\discounts\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 06\\solve task\\discounts\\buyonegetonediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\discounts\\buyonegetonediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 06\\solve task\\discounts\\flatdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\discounts\\flatdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 06\\solve task\\discount applicability\\userafterdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\discount applicability\\userafterdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 06\\solve task\\discount applicability\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\discount applicability\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 06\\solve task\\discounts\\nodiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\discounts\\nodiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 06\\solve task\\discounts\\percentagediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\discounts\\percentagediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 06\\solve task\\first project\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\first project\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 06\\solve task\\second program\\implementmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B0EE1D-B93B-460C-B650-8BAC28D711A2}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\second program\\implementmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F993BEC5-6642-4B9E-8052-15653942E90C}|Demo 06\\Demo 06.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 06\\demo 06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F993BEC5-6642-4B9E-8052-15653942E90C}|Demo 06\\Demo 06.csproj|solutionrelative:demo 06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F993BEC5-6642-4B9E-8052-15653942E90C}|Demo 06\\Demo 06.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 06\\demo 06\\built-in-interface\\employeenamecompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F993BEC5-6642-4B9E-8052-15653942E90C}|Demo 06\\Demo 06.csproj|solutionrelative:demo 06\\built-in-interface\\employeenamecompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F993BEC5-6642-4B9E-8052-15653942E90C}|Demo 06\\Demo 06.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 06\\demo 06\\built-in-interface\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F993BEC5-6642-4B9E-8052-15653942E90C}|Demo 06\\Demo 06.csproj|solutionrelative:demo 06\\built-in-interface\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F993BEC5-6642-4B9E-8052-15653942E90C}|Demo 06\\Demo 06.csproj|c:\\users\\mr ali\\music\\route\\oop\\session 06\\demo 06\\abstraction01\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F993BEC5-6642-4B9E-8052-15653942E90C}|Demo 06\\Demo 06.csproj|solutionrelative:demo 06\\abstraction01\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NoDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Discounts\\NoDiscount.cs",
+              "RelativeDocumentMoniker": "Solve Task\\Discounts\\NoDiscount.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Discounts\\NoDiscount.cs",
+              "RelativeToolTip": "Solve Task\\Discounts\\NoDiscount.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:49:31.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserAfterDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Discount Applicability\\UserAfterDiscount.cs",
+              "RelativeDocumentMoniker": "Solve Task\\Discount Applicability\\UserAfterDiscount.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Discount Applicability\\UserAfterDiscount.cs",
+              "RelativeToolTip": "Solve Task\\Discount Applicability\\UserAfterDiscount.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAASwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:05:45.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpecificUser.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Discount Applicability\\SpecificUser.cs",
+              "RelativeDocumentMoniker": "Solve Task\\Discount Applicability\\SpecificUser.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Discount Applicability\\SpecificUser.cs",
+              "RelativeToolTip": "Solve Task\\Discount Applicability\\SpecificUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:03:25.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Discount Applicability\\User.cs",
+              "RelativeDocumentMoniker": "Solve Task\\Discount Applicability\\User.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Discount Applicability\\User.cs",
+              "RelativeToolTip": "Solve Task\\Discount Applicability\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T14:49:19.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuyOneGetOneDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Discounts\\BuyOneGetOneDiscount.cs",
+              "RelativeDocumentMoniker": "Solve Task\\Discounts\\BuyOneGetOneDiscount.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Discounts\\BuyOneGetOneDiscount.cs",
+              "RelativeToolTip": "Solve Task\\Discounts\\BuyOneGetOneDiscount.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:46:43.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlatDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Discounts\\FlatDiscount.cs",
+              "RelativeDocumentMoniker": "Solve Task\\Discounts\\FlatDiscount.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Discounts\\FlatDiscount.cs",
+              "RelativeToolTip": "Solve Task\\Discounts\\FlatDiscount.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:37:11.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PercentageDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Discounts\\PercentageDiscount.cs",
+              "RelativeDocumentMoniker": "Solve Task\\Discounts\\PercentageDiscount.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Discounts\\PercentageDiscount.cs",
+              "RelativeToolTip": "Solve Task\\Discounts\\PercentageDiscount.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:33:20.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Discounts\\Discount.cs",
+              "RelativeDocumentMoniker": "Solve Task\\Discounts\\Discount.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Discounts\\Discount.cs",
+              "RelativeToolTip": "Solve Task\\Discounts\\Discount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:13:07.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImplementMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Second Program\\ImplementMethod.cs",
+              "RelativeDocumentMoniker": "Solve Task\\Second Program\\ImplementMethod.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Second Program\\ImplementMethod.cs",
+              "RelativeToolTip": "Solve Task\\Second Program\\ImplementMethod.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T23:17:34.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Point3D.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\First Project\\Point3D.cs",
+              "RelativeDocumentMoniker": "Solve Task\\First Project\\Point3D.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\First Project\\Point3D.cs",
+              "RelativeToolTip": "Solve Task\\First Project\\Point3D.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA8wC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:59:43.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Program.cs",
+              "RelativeDocumentMoniker": "Solve Task\\Program.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Solve Task\\Program.cs",
+              "RelativeToolTip": "Solve Task\\Program.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAowK4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:57:22.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Demo 06\\Abstraction01\\Shape.cs",
+              "RelativeDocumentMoniker": "Demo 06\\Abstraction01\\Shape.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Demo 06\\Abstraction01\\Shape.cs",
+              "RelativeToolTip": "Demo 06\\Abstraction01\\Shape.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T03:18:17.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeNameCompare.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Demo 06\\Built-In-Interface\\EmployeeNameCompare.cs",
+              "RelativeDocumentMoniker": "Demo 06\\Built-In-Interface\\EmployeeNameCompare.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Demo 06\\Built-In-Interface\\EmployeeNameCompare.cs",
+              "RelativeToolTip": "Demo 06\\Built-In-Interface\\EmployeeNameCompare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T02:28:02.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Demo 06\\Built-In-Interface\\Employee.cs",
+              "RelativeDocumentMoniker": "Demo 06\\Built-In-Interface\\Employee.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Demo 06\\Built-In-Interface\\Employee.cs",
+              "RelativeToolTip": "Demo 06\\Built-In-Interface\\Employee.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:15:24.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Demo 06\\Program.cs",
+              "RelativeDocumentMoniker": "Demo 06\\Program.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Session 06\\Demo 06\\Program.cs",
+              "RelativeToolTip": "Demo 06\\Program.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAwwPYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T20:56:56.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

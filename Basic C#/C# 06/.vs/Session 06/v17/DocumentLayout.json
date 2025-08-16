@@ -14,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\Basic C#\\C# 06\\Demo 05\\Program.cs",
-              "RelativeDocumentMoniker": "Demo 05\\Program.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\Basic C#\\C# 06\\Demo 05\\Program.cs*",
-              "RelativeToolTip": "Demo 05\\Program.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowH4BAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T16:27:42.368Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
@@ -44,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\Basic C#\\C# 06\\Demo 05\\Program.cs",
+              "RelativeDocumentMoniker": "Demo 05\\Program.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\Basic C#\\C# 06\\Demo 05\\Program.cs*",
+              "RelativeToolTip": "Demo 05\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:27:42.368Z",
+              "EditorCaption": ""
             }
           ]
         }
