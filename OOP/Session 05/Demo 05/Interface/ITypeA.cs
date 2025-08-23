@@ -19,6 +19,6 @@ namespace Demo_05.Interface
         {
             Current = 0;
         }
-
+            
     }
 }

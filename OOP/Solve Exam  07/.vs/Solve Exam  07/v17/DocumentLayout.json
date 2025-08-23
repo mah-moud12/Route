@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Solve Exam  07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40D8B215-A5AB-4A50-9C10-73E7693B8A0D}|OOP Exam  07\\OOP Exam  07.csproj|c:\\users\\mr ali\\music\\route\\oop\\solve exam  07\\oop exam  07\\subjects\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D8B215-A5AB-4A50-9C10-73E7693B8A0D}|OOP Exam  07\\OOP Exam  07.csproj|solutionrelative:oop exam  07\\subjects\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D8B215-A5AB-4A50-9C10-73E7693B8A0D}|OOP Exam  07\\OOP Exam  07.csproj|c:\\users\\mr ali\\music\\route\\oop\\solve exam  07\\oop exam  07\\exams\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D8B215-A5AB-4A50-9C10-73E7693B8A0D}|OOP Exam  07\\OOP Exam  07.csproj|solutionrelative:oop exam  07\\exams\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D8B215-A5AB-4A50-9C10-73E7693B8A0D}|OOP Exam  07\\OOP Exam  07.csproj|c:\\users\\mr ali\\music\\route\\oop\\solve exam  07\\oop exam  07\\exams\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D8B215-A5AB-4A50-9C10-73E7693B8A0D}|OOP Exam  07\\OOP Exam  07.csproj|solutionrelative:oop exam  07\\exams\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D8B215-A5AB-4A50-9C10-73E7693B8A0D}|OOP Exam  07\\OOP Exam  07.csproj|c:\\users\\mr ali\\music\\route\\oop\\solve exam  07\\oop exam  07\\questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D8B215-A5AB-4A50-9C10-73E7693B8A0D}|OOP Exam  07\\OOP Exam  07.csproj|solutionrelative:oop exam  07\\questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D8B215-A5AB-4A50-9C10-73E7693B8A0D}|OOP Exam  07\\OOP Exam  07.csproj|c:\\users\\mr ali\\music\\route\\oop\\solve exam  07\\oop exam  07\\exams\\practical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D8B215-A5AB-4A50-9C10-73E7693B8A0D}|OOP Exam  07\\OOP Exam  07.csproj|solutionrelative:oop exam  07\\exams\\practical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Solve Exam  07\\OOP Exam  07\\Subjects\\Subject.cs",
+              "RelativeDocumentMoniker": "OOP Exam  07\\Subjects\\Subject.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Solve Exam  07\\OOP Exam  07\\Subjects\\Subject.cs",
+              "RelativeToolTip": "OOP Exam  07\\Subjects\\Subject.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwEUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T18:10:17.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Final.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Solve Exam  07\\OOP Exam  07\\Exams\\Final.cs",
+              "RelativeDocumentMoniker": "OOP Exam  07\\Exams\\Final.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Solve Exam  07\\OOP Exam  07\\Exams\\Final.cs",
+              "RelativeToolTip": "OOP Exam  07\\Exams\\Final.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T02:57:50.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Practical.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Solve Exam  07\\OOP Exam  07\\Exams\\Practical.cs",
+              "RelativeDocumentMoniker": "OOP Exam  07\\Exams\\Practical.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Solve Exam  07\\OOP Exam  07\\Exams\\Practical.cs",
+              "RelativeToolTip": "OOP Exam  07\\Exams\\Practical.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T03:03:25.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Solve Exam  07\\OOP Exam  07\\Exams\\Exam.cs",
+              "RelativeDocumentMoniker": "OOP Exam  07\\Exams\\Exam.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Solve Exam  07\\OOP Exam  07\\Exams\\Exam.cs",
+              "RelativeToolTip": "OOP Exam  07\\Exams\\Exam.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T02:33:46.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Solve Exam  07\\OOP Exam  07\\Questions\\Question.cs",
+              "RelativeDocumentMoniker": "OOP Exam  07\\Questions\\Question.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\OOP\\Solve Exam  07\\OOP Exam  07\\Questions\\Question.cs",
+              "RelativeToolTip": "OOP Exam  07\\Questions\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:58:07.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

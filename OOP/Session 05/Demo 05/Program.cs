@@ -128,7 +128,6 @@ namespace Demo_05
             //((Overriding.TypeB)typeA).print();
 
             #endregion
-
             #endregion
 
             #region Interface 
@@ -144,15 +143,15 @@ namespace Demo_05
             //Type01 type01 = new Type01();
             //type01.MyFun01();
             //type01.X = 10;
-            //type01.Print();// Invalid لان دية مش موجوده في implementation  
+            ////type01.Print();// Invalid لان دية مش موجوده في implementation  
             #endregion
 
             #region Example02
-            //Interface.TypeA typeA = new Interface.TypeA();
-            //PrintFiveStep(typeA);
+            Interface.TypeA typeA = new Interface.TypeA();
+            PrintFiveStep(typeA);
 
-            //Interface.TypeB typeB = new Interface.TypeB();
-            //PrintFiveStep(typeB);
+            Interface.TypeB typeB = new Interface.TypeB();
+            PrintFiveStep(typeB);
             #endregion
 
             #region Example03
@@ -183,6 +182,9 @@ namespace Demo_05
             #endregion
 
             #endregion
+
+
+
 
         }
     }

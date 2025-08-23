@@ -1,0 +1,29 @@
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 07\Demo 07\bin\Debug\net9.0\Demo 07.exe
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 07\Demo 07\bin\Debug\net9.0\Demo 07.deps.json
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 07\Demo 07\bin\Debug\net9.0\Demo 07.runtimeconfig.json
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 07\Demo 07\bin\Debug\net9.0\Demo 07.dll
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 07\Demo 07\bin\Debug\net9.0\Demo 07.pdb
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 07\Demo 07\obj\Debug\net9.0\Demo 07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 07\Demo 07\obj\Debug\net9.0\Demo 07.AssemblyInfoInputs.cache
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 07\Demo 07\obj\Debug\net9.0\Demo 07.AssemblyInfo.cs
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 07\Demo 07\obj\Debug\net9.0\Demo 07.csproj.CoreCompileInputs.cache
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 07\Demo 07\obj\Debug\net9.0\Demo 07.dll
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 07\Demo 07\obj\Debug\net9.0\refint\Demo 07.dll
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 07\Demo 07\obj\Debug\net9.0\Demo 07.pdb
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 07\Demo 07\obj\Debug\net9.0\Demo 07.genruntimeconfig.cache
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 07\Demo 07\obj\Debug\net9.0\ref\Demo 07.dll
+C:\Users\Mr Ali\Music\Route\OOP\Session 07\Demo 07\bin\Debug\net9.0\Demo 07.exe
+C:\Users\Mr Ali\Music\Route\OOP\Session 07\Demo 07\bin\Debug\net9.0\Demo 07.deps.json
+C:\Users\Mr Ali\Music\Route\OOP\Session 07\Demo 07\bin\Debug\net9.0\Demo 07.runtimeconfig.json
+C:\Users\Mr Ali\Music\Route\OOP\Session 07\Demo 07\bin\Debug\net9.0\Demo 07.dll
+C:\Users\Mr Ali\Music\Route\OOP\Session 07\Demo 07\bin\Debug\net9.0\Demo 07.pdb
+C:\Users\Mr Ali\Music\Route\OOP\Session 07\Demo 07\obj\Debug\net9.0\Demo 07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Ali\Music\Route\OOP\Session 07\Demo 07\obj\Debug\net9.0\Demo 07.AssemblyInfoInputs.cache
+C:\Users\Mr Ali\Music\Route\OOP\Session 07\Demo 07\obj\Debug\net9.0\Demo 07.AssemblyInfo.cs
+C:\Users\Mr Ali\Music\Route\OOP\Session 07\Demo 07\obj\Debug\net9.0\Demo 07.csproj.CoreCompileInputs.cache
+C:\Users\Mr Ali\Music\Route\OOP\Session 07\Demo 07\obj\Debug\net9.0\Demo 07.sourcelink.json
+C:\Users\Mr Ali\Music\Route\OOP\Session 07\Demo 07\obj\Debug\net9.0\Demo 07.dll
+C:\Users\Mr Ali\Music\Route\OOP\Session 07\Demo 07\obj\Debug\net9.0\refint\Demo 07.dll
+C:\Users\Mr Ali\Music\Route\OOP\Session 07\Demo 07\obj\Debug\net9.0\Demo 07.pdb
+C:\Users\Mr Ali\Music\Route\OOP\Session 07\Demo 07\obj\Debug\net9.0\Demo 07.genruntimeconfig.cache
+C:\Users\Mr Ali\Music\Route\OOP\Session 07\Demo 07\obj\Debug\net9.0\ref\Demo 07.dll

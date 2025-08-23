@@ -27,11 +27,11 @@ namespace Demo_03.Inhertance
             return $"X = {X} , Y = {Y} , Z = {Z}";
         }
 
-        //public override Product() { } // Error لازم اروح لل parent اخليه يسمحلي انها تتورث عن طريق virtual
+        //public override int Product() { } // Error لازم اروح لل parent اخليه يسمحلي انها تتورث عن طريق virtual
 
         public override int Product()
         {
-            return base.Product()* Z;
+            return base.Product() * Z;
         }
 
         public new void myFun()

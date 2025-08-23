@@ -14,3 +14,6 @@ C:\Users\Mr Ali\Music\Route\OOP\Session 03\Demo 03\obj\Debug\net9.0\Demo 03.pdb
 C:\Users\Mr Ali\Music\Route\OOP\Session 03\Demo 03\obj\Debug\net9.0\Demo 03.genruntimeconfig.cache
 C:\Users\Mr Ali\Music\Route\OOP\Session 03\Demo 03\obj\Debug\net9.0\ref\Demo 03.dll
 C:\Users\Mr Ali\Music\Route\OOP\Session 03\Demo 03\obj\Debug\net9.0\Demo 03.csproj.AssemblyReference.cache
+C:\Users\Mr Ali\Music\Route\OOP\Session 03\Demo 03\bin\Debug\net9.0\Common.dll
+C:\Users\Mr Ali\Music\Route\OOP\Session 03\Demo 03\bin\Debug\net9.0\Common.pdb
+C:\Users\Mr Ali\Music\Route\OOP\Session 03\Demo 03\obj\Debug\net9.0\Demo 03.csproj.Up2Date

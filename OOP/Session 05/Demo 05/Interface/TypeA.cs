@@ -13,6 +13,6 @@ namespace Demo_05.Interface
         public void GetNext()
         {
             Current += 2;
-        }
+        }   
     }
 }

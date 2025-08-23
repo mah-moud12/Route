@@ -7,6 +7,7 @@ using System.Threading;
 using System;
 using Demo_03.Inhertance;
 using Common;
+using System.ComponentModel;
 
 namespace Demo_03
 {
@@ -15,28 +16,27 @@ namespace Demo_03
         static void Main(string[] args)
         {
             #region Class
-            //Create Instance Or Object From Car
+            ////Create Instance Or Object From Car
             //Car C1;
-            // Allocate 4 Byte in Stack [Null]  
+            ////Allocate 4 Byte in Stack[Null]
 
             //C1 = new Car(11,"BMW",1010);
-            //Class
-            //اول حاجه ال compiler هيروح يعمل generate empty paramterless Constructor وده مش بعمل intialize ل Attribute لإنه empty مش بيعمل حاجه 
-            //طب مين اللي بيعمل initialize ل Attribute اللي بعملها هي (new) هيا اللي بتروع تعمل initialize في Heap
-            //note: empty parameterless Constructor بيتعمل وقت لما ميكونش فيه Constructor 
-            //اعمل debug وانت تفهم 
+            ////Class
+            ////اول حاجه ال compiler هيروح يعمل generate empty paramterless Constructor وده مش بعمل intialize ل Attribute لإنه empty مش بيعمل حاجه 
+            ////طب مين اللي بيعمل initialize ل Attribute اللي بعملها هي (new) هيا اللي بتروع تعمل initialize في Heap
+            ////note: empty parameterless Constructor بيتعمل وقت لما ميكونش فيه Constructor 
+            ////اعمل debug وانت تفهم 
 
-            //Struct
-            //ده كله على عكس اللي كان بيعملة Struct لإنه كان Compiler بيعمل Generate parameterless Constructor وده اللي كان بيعمل initialize ل Attribute 
-            //note: parameterless Constructor سواء انت عملتو او مش عملتو هو بيتعمل 
+            ////Struct
+            ////ده كله على عكس اللي كان بيعملة Struct لإنه كان Compiler بيعمل Generate parameterless Constructor وده اللي كان بيعمل initialize ل Attribute 
+            ////note: parameterless Constructor سواء انت عملتو او مش عملتو هو بيتعمل 
 
             //Console.WriteLine(C1);
 
-            //-------------------------------------------------------
-
-            //Car C1 = new Car(10);
-            //Console.WriteLine(C1);
-
+            ////-------------------------------------------------------
+            //Console.WriteLine("==============================");
+            //Car C2 = new Car(10);
+            //Console.WriteLine(C2);
 
             #endregion
 
@@ -66,22 +66,25 @@ namespace Demo_03
             //However, memory allocation and deallocation is slower on the heap.
             //This slowness is due to the GC needing to monitor, track, and manage memory usage continuously.
             // وبرضو لما بيجي يعم allocate في الميموري بياخد اقرب مكان ليه مش بيروح على مكان محدد
-            #endregion
+            #endregion 
 
             #region Inhertance 
             //Parent P01 = new Parent();// Error علشان فيه User-Define Constructor
-            Parent P01 = new Parent(10,20);
+            Parent P01 = new Parent(10, 20);
 
             Console.WriteLine(P01);
             Console.WriteLine(P01.Product());
             Parent.myFun();
 
-            //--------------------------------------------
-            Child C01 = new Child(10,20,30);
+            ////--------------------------------------------
+            Child C01 = new Child(10, 20, 30);
             C01.myFun();
             Console.WriteLine(C01);
             Console.WriteLine(C01.Product());
             #endregion
+
+
+
 
             #region Access Modifier
             //TypeA T01 = new TypeA();
@@ -101,7 +104,7 @@ namespace Demo_03
             //T01.Y = 20;  // Error
             //T01.Z = 50;
 
-            Inher I01 = new Inher();
+            //Inher I01 = new Inher();
             //I01.C = 10;
             #endregion
         }
