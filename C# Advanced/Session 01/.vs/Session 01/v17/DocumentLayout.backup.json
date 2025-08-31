@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CB4990DA-CF46-4F93-A1B3-4EAC4CD9980B}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\c# advanced\\session 01\\solve task\\q05\\findfirstnonreapeted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4990DA-CF46-4F93-A1B3-4EAC4CD9980B}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\q05\\findfirstnonreapeted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB4990DA-CF46-4F93-A1B3-4EAC4CD9980B}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\c# advanced\\session 01\\solve task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB4990DA-CF46-4F93-A1B3-4EAC4CD9980B}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{CB4990DA-CF46-4F93-A1B3-4EAC4CD9980B}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\q01\\range.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB4990DA-CF46-4F93-A1B3-4EAC4CD9980B}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\c# advanced\\session 01\\solve task\\q05\\findfirstnonreapeted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB4990DA-CF46-4F93-A1B3-4EAC4CD9980B}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\q05\\findfirstnonreapeted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB4990DA-CF46-4F93-A1B3-4EAC4CD9980B}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\c# advanced\\session 01\\solve task\\q04\\fixedsizelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB4990DA-CF46-4F93-A1B3-4EAC4CD9980B}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\q04\\fixedsizelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "FindFirstNonReapeted.cs",
               "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Q05\\FindFirstNonReapeted.cs",
               "RelativeDocumentMoniker": "Solve Task\\Q05\\FindFirstNonReapeted.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Q05\\FindFirstNonReapeted.cs*",
-              "RelativeToolTip": "Solve Task\\Q05\\FindFirstNonReapeted.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAARAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Q05\\FindFirstNonReapeted.cs",
+              "RelativeToolTip": "Solve Task\\Q05\\FindFirstNonReapeted.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T11:37:41.262Z",
               "EditorCaption": ""
@@ -71,64 +71,60 @@
               "Title": "FixedSizeList.cs",
               "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Q04\\FixedSizeList.cs",
               "RelativeDocumentMoniker": "Solve Task\\Q04\\FixedSizeList.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Q04\\FixedSizeList.cs*",
-              "RelativeToolTip": "Solve Task\\Q04\\FixedSizeList.cs*",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Q04\\FixedSizeList.cs",
+              "RelativeToolTip": "Solve Task\\Q04\\FixedSizeList.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T11:00:56.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T11:00:56.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EvenNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Q03\\EvenNumbers.cs",
+              "RelativeDocumentMoniker": "Solve Task\\Q03\\EvenNumbers.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Q03\\EvenNumbers.cs",
+              "RelativeToolTip": "Solve Task\\Q03\\EvenNumbers.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:25:03.505Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EvenNumbers.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Q03\\EvenNumbers.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Q03\\EvenNumbers.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Q03\\EvenNumbers.cs*",
-              "RelativeToolTip": "Solve Task\\Q03\\EvenNumbers.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Title": "ReverseList.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Q02\\ReverseList.cs",
+              "RelativeDocumentMoniker": "Solve Task\\Q02\\ReverseList.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Q02\\ReverseList.cs",
+              "RelativeToolTip": "Solve Task\\Q02\\ReverseList.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T10:25:03.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T09:43:00.079Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ReverseList.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Q02\\ReverseList.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Q02\\ReverseList.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Q02\\ReverseList.cs*",
-              "RelativeToolTip": "Solve Task\\Q02\\ReverseList.cs*",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T09:43:00.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Program.cs",
               "RelativeDocumentMoniker": "Solve Task\\Program.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Program.cs*",
-              "RelativeToolTip": "Solve Task\\Program.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwDkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Program.cs",
+              "RelativeToolTip": "Solve Task\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T08:51:40.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Range.cs",
               "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Q01\\Range.cs",
               "RelativeDocumentMoniker": "Solve Task\\Q01\\Range.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Q01\\Range.cs*",
-              "RelativeToolTip": "Solve Task\\Q01\\Range.cs*",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 01\\Solve Task\\Q01\\Range.cs",
+              "RelativeToolTip": "Solve Task\\Q01\\Range.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T08:17:11.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T08:17:11.821Z"
             }
           ]
         }

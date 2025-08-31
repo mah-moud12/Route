@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1366F8-3DA8-42A9-8CC3-061DAA309D3B}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\c# advanced\\session 02\\solve task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1366F8-3DA8-42A9-8CC3-061DAA309D3B}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1366F8-3DA8-42A9-8CC3-061DAA309D3B}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\c# advanced\\session 02\\solve task\\removeoddnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1366F8-3DA8-42A9-8CC3-061DAA309D3B}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\removeoddnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1366F8-3DA8-42A9-8CC3-061DAA309D3B}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\c# advanced\\session 02\\solve task\\remove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1366F8-3DA8-42A9-8CC3-061DAA309D3B}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\remove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1366F8-3DA8-42A9-8CC3-061DAA309D3B}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\c# advanced\\session 02\\solve task\\question 01 02 03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1366F8-3DA8-42A9-8CC3-061DAA309D3B}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\question 01 02 03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1366F8-3DA8-42A9-8CC3-061DAA309D3B}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\c# advanced\\session 02\\solve task\\balanced .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1366F8-3DA8-42A9-8CC3-061DAA309D3B}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\balanced .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoveOddNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Solve Task\\RemoveOddNumber.cs",
+              "RelativeDocumentMoniker": "Solve Task\\RemoveOddNumber.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Solve Task\\RemoveOddNumber.cs",
+              "RelativeToolTip": "Solve Task\\RemoveOddNumber.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T06:48:26.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Remove.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Solve Task\\Remove.cs",
+              "RelativeDocumentMoniker": "Solve Task\\Remove.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Solve Task\\Remove.cs",
+              "RelativeToolTip": "Solve Task\\Remove.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T05:49:52.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Balanced .cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Solve Task\\Balanced .cs",
+              "RelativeDocumentMoniker": "Solve Task\\Balanced .cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Solve Task\\Balanced .cs",
+              "RelativeToolTip": "Solve Task\\Balanced .cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:02:14.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Question 01 02 03.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Solve Task\\Question 01 02 03.cs",
+              "RelativeDocumentMoniker": "Solve Task\\Question 01 02 03.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Solve Task\\Question 01 02 03.cs",
+              "RelativeToolTip": "Solve Task\\Question 01 02 03.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:18:30.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Solve Task\\Program.cs",
+              "RelativeDocumentMoniker": "Solve Task\\Program.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Solve Task\\Program.cs",
+              "RelativeToolTip": "Solve Task\\Program.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAkwMMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:18:10.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
