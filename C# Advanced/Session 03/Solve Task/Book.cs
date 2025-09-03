@@ -24,10 +24,11 @@ namespace Solve_Task
             PublicationDate = publicationDate;
             Price = price;
         }
-        public override string ToString()
-        {
-            return $"ISBN: {ISBN}\nTitle: {Title}\nAuthors: {string.Join(", ",Authors)}\nPublicationDate: {PublicationDate}\nPrice: {Price}";
-        }
+        public override string ToString() =>  
+            $"ISBN: {ISBN}\n" +
+            $"Title: {Title}\nAuthors: {string.Join(", ",Authors)}\n" +
+            $"PublicationDate: {PublicationDate}\nPrice: {Price}";
+        
 
     }
 }

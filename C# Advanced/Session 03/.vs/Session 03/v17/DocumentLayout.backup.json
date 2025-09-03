@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{B2B8D6EA-1783-4649-9C3C-95F4E3A0E2A9}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2B8D6EA-1783-4649-9C3C-95F4E3A0E2A9}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\c# advanced\\session 03\\solve task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B8D6EA-1783-4649-9C3C-95F4E3A0E2A9}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B2B8D6EA-1783-4649-9C3C-95F4E3A0E2A9}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\c# advanced\\session 03\\solve task\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2B8D6EA-1783-4649-9C3C-95F4E3A0E2A9}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B8D6EA-1783-4649-9C3C-95F4E3A0E2A9}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\c# advanced\\session 03\\solve task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B8D6EA-1783-4649-9C3C-95F4E3A0E2A9}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2B8D6EA-1783-4649-9C3C-95F4E3A0E2A9}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\c# advanced\\session 03\\solve task\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,34 +50,34 @@
               "Title": "LibraryEngine.cs",
               "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 03\\Solve Task\\LibraryEngine.cs",
               "RelativeDocumentMoniker": "Solve Task\\LibraryEngine.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 03\\Solve Task\\LibraryEngine.cs*",
-              "RelativeToolTip": "Solve Task\\LibraryEngine.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 03\\Solve Task\\LibraryEngine.cs",
+              "RelativeToolTip": "Solve Task\\LibraryEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T09:17:11.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "BookFunctions.cs",
               "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 03\\Solve Task\\BookFunctions.cs",
               "RelativeDocumentMoniker": "Solve Task\\BookFunctions.cs",
               "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 03\\Solve Task\\BookFunctions.cs",
               "RelativeToolTip": "Solve Task\\BookFunctions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T08:58:57.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 03\\Solve Task\\Program.cs",
               "RelativeDocumentMoniker": "Solve Task\\Program.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 03\\Solve Task\\Program.cs*",
-              "RelativeToolTip": "Solve Task\\Program.cs*",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 03\\Solve Task\\Program.cs",
+              "RelativeToolTip": "Solve Task\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAB+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T08:48:27.728Z",
