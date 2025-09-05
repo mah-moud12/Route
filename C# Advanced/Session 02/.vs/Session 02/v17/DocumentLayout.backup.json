@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9824235F-5B4E-4423-862C-8422A3BADE61}|Demo 02\\Demo 02.csproj|c:\\users\\mr ali\\music\\route\\c# advanced\\session 02\\demo 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824235F-5B4E-4423-862C-8422A3BADE61}|Demo 02\\Demo 02.csproj|solutionrelative:demo 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1366F8-3DA8-42A9-8CC3-061DAA309D3B}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\c# advanced\\session 02\\solve task\\balanced .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1366F8-3DA8-42A9-8CC3-061DAA309D3B}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\balanced .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F1366F8-3DA8-42A9-8CC3-061DAA309D3B}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\c# advanced\\session 02\\solve task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F1366F8-3DA8-42A9-8CC3-061DAA309D3B}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2F1366F8-3DA8-42A9-8CC3-061DAA309D3B}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\c# advanced\\session 02\\solve task\\question 01 02 03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F1366F8-3DA8-42A9-8CC3-061DAA309D3B}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\question 01 02 03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F1366F8-3DA8-42A9-8CC3-061DAA309D3B}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\c# advanced\\session 02\\solve task\\balanced .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F1366F8-3DA8-42A9-8CC3-061DAA309D3B}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\balanced .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Demo 02\\Program.cs",
+              "RelativeDocumentMoniker": "Demo 02\\Program.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Demo 02\\Program.cs*",
+              "RelativeToolTip": "Demo 02\\Program.cs*",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAAOEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:03:21.734Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
@@ -50,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "RemoveOddNumber.cs",
               "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Solve Task\\RemoveOddNumber.cs",
               "RelativeDocumentMoniker": "Solve Task\\RemoveOddNumber.cs",
@@ -58,12 +75,11 @@
               "RelativeToolTip": "Solve Task\\RemoveOddNumber.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAIwBIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T06:48:26.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T06:48:26.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Remove.cs",
               "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Solve Task\\Remove.cs",
               "RelativeDocumentMoniker": "Solve Task\\Remove.cs",
@@ -71,24 +87,24 @@
               "RelativeToolTip": "Solve Task\\Remove.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T05:49:52.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T05:49:52.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Balanced .cs",
               "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Solve Task\\Balanced .cs",
               "RelativeDocumentMoniker": "Solve Task\\Balanced .cs",
               "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Solve Task\\Balanced .cs",
               "RelativeToolTip": "Solve Task\\Balanced .cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T16:02:14.043Z"
+              "WhenOpened": "2025-08-30T16:02:14.043Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Question 01 02 03.cs",
               "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Solve Task\\Question 01 02 03.cs",
               "RelativeDocumentMoniker": "Solve Task\\Question 01 02 03.cs",
@@ -96,21 +112,19 @@
               "RelativeToolTip": "Solve Task\\Question 01 02 03.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T13:18:30.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T13:18:30.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Solve Task\\Program.cs",
               "RelativeDocumentMoniker": "Solve Task\\Program.cs",
               "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\C# Advanced\\Session 02\\Solve Task\\Program.cs",
               "RelativeToolTip": "Solve Task\\Program.cs",
-              "ViewState": "AgIAALQAAAAAAAAAAAAkwMMAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwLMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T13:18:10.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T13:18:10.488Z"
             }
           ]
         }

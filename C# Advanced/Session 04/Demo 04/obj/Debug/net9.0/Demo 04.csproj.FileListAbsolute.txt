@@ -1,0 +1,15 @@
+C:\Users\Mr Ali\Music\Route\C# Advanced\Session 04\Demo 04\bin\Debug\net9.0\Demo 04.exe
+C:\Users\Mr Ali\Music\Route\C# Advanced\Session 04\Demo 04\bin\Debug\net9.0\Demo 04.deps.json
+C:\Users\Mr Ali\Music\Route\C# Advanced\Session 04\Demo 04\bin\Debug\net9.0\Demo 04.runtimeconfig.json
+C:\Users\Mr Ali\Music\Route\C# Advanced\Session 04\Demo 04\bin\Debug\net9.0\Demo 04.dll
+C:\Users\Mr Ali\Music\Route\C# Advanced\Session 04\Demo 04\bin\Debug\net9.0\Demo 04.pdb
+C:\Users\Mr Ali\Music\Route\C# Advanced\Session 04\Demo 04\obj\Debug\net9.0\Demo 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Ali\Music\Route\C# Advanced\Session 04\Demo 04\obj\Debug\net9.0\Demo 04.AssemblyInfoInputs.cache
+C:\Users\Mr Ali\Music\Route\C# Advanced\Session 04\Demo 04\obj\Debug\net9.0\Demo 04.AssemblyInfo.cs
+C:\Users\Mr Ali\Music\Route\C# Advanced\Session 04\Demo 04\obj\Debug\net9.0\Demo 04.csproj.CoreCompileInputs.cache
+C:\Users\Mr Ali\Music\Route\C# Advanced\Session 04\Demo 04\obj\Debug\net9.0\Demo 04.sourcelink.json
+C:\Users\Mr Ali\Music\Route\C# Advanced\Session 04\Demo 04\obj\Debug\net9.0\Demo 04.dll
+C:\Users\Mr Ali\Music\Route\C# Advanced\Session 04\Demo 04\obj\Debug\net9.0\refint\Demo 04.dll
+C:\Users\Mr Ali\Music\Route\C# Advanced\Session 04\Demo 04\obj\Debug\net9.0\Demo 04.pdb
+C:\Users\Mr Ali\Music\Route\C# Advanced\Session 04\Demo 04\obj\Debug\net9.0\Demo 04.genruntimeconfig.cache
+C:\Users\Mr Ali\Music\Route\C# Advanced\Session 04\Demo 04\obj\Debug\net9.0\ref\Demo 04.dll

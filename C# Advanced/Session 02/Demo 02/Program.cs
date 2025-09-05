@@ -33,8 +33,8 @@ namespace Demo_02
         {
             #region Non Generic Collections - ArrayList
 
-            //ArrayList arrayList = new ArrayList();
-            //Console.WriteLine($"Capacity => {arrayList.Capacity}  ,  Number Of Element => {arrayList.Count}");
+            ArrayList arrayList = new ArrayList();
+            Console.WriteLine($"Capacity => {arrayList.Capacity}  ,  Number Of Element => {arrayList.Count}");
 
             #region Add 
             //// هنا capacity 0 فلو ضفت عنصر هيروح يعمل array جديده ب capacity ضعف ال array القديمه 
@@ -104,9 +104,13 @@ namespace Demo_02
 
             #region Contain 
             //arrayList.Add(1);
-            //int firstElement = (int?)arrayList[0]??0; // ده عيب في ArrayList لان انا بعمل casting (Unboxing)
+            //int firstElement = (int?)arrayList[0] ?? 0; // ده عيب في ArrayList لان انا بعمل casting (Unboxing)
 
-            //if(arrayList.Contains(1))
+            //if (arrayList[0] is int value) // casting
+            //    firstElement = value;
+
+
+            //if (arrayList.Contains(1))
             //    Console.WriteLine("Found");
             //else
             //    Console.WriteLine("Not Found");
@@ -151,8 +155,8 @@ namespace Demo_02
             #endregion
 
             #region Generic Collections - List
-            //List<int> ints = new List<int>();
-            //Console.WriteLine($"Capacity => {ints.Capacity}  ,  Number Of Element => {ints.Count}");
+            List<int> ints = new List<int>();
+            Console.WriteLine($"Capacity => {ints.Capacity}  ,  Number Of Element => {ints.Count}");
 
             #region Add
             //ints.Add(1);
@@ -160,7 +164,7 @@ namespace Demo_02
             //ints.Add(3);
             //Console.WriteLine($"Capacity => {ints.Capacity}  ,  Number Of Element => {ints.Count}");
 
-            ////ints.AddRange(1, 2, 3); //  ints.AddRange( params )
+            //ints.AddRange(1, 2, 3); //  ints.AddRange( params )
             //ints.AddRange(new int[] { 4, 5, 6, 7, 5 }); //  ints.AddRange( Interface )
             //ints.AddRange(8); //  ints.AddRange( Interface )
 
@@ -170,7 +174,7 @@ namespace Demo_02
 
             #region Insert Element
 
-            //ints.Insert(0,10);
+            //ints.Insert(0, 10); // ints.Insert(index , value)
             //ints.Add(20);
             //ints.InsertRange(2, new int[] { 30, 40, 50 });
 
