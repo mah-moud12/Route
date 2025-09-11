@@ -1,0 +1,12 @@
+C:\Users\Mr Ali\Music\Route\LINQ\Session 01\Data01\obj\Debug\net9.0\Data01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Ali\Music\Route\LINQ\Session 01\Data01\obj\Debug\net9.0\Data01.AssemblyInfoInputs.cache
+C:\Users\Mr Ali\Music\Route\LINQ\Session 01\Data01\obj\Debug\net9.0\Data01.AssemblyInfo.cs
+C:\Users\Mr Ali\Music\Route\LINQ\Session 01\Data01\obj\Debug\net9.0\Data01.csproj.CoreCompileInputs.cache
+C:\Users\Mr Ali\Music\Route\LINQ\Session 01\Data01\obj\Debug\net9.0\Data01.sourcelink.json
+C:\Users\Mr Ali\Music\Route\LINQ\Session 01\Data01\bin\Debug\net9.0\Data01.deps.json
+C:\Users\Mr Ali\Music\Route\LINQ\Session 01\Data01\bin\Debug\net9.0\Data01.dll
+C:\Users\Mr Ali\Music\Route\LINQ\Session 01\Data01\bin\Debug\net9.0\Data01.pdb
+C:\Users\Mr Ali\Music\Route\LINQ\Session 01\Data01\obj\Debug\net9.0\Data01.dll
+C:\Users\Mr Ali\Music\Route\LINQ\Session 01\Data01\obj\Debug\net9.0\refint\Data01.dll
+C:\Users\Mr Ali\Music\Route\LINQ\Session 01\Data01\obj\Debug\net9.0\Data01.pdb
+C:\Users\Mr Ali\Music\Route\LINQ\Session 01\Data01\obj\Debug\net9.0\ref\Data01.dll
