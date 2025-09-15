@@ -1,0 +1,23 @@
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 02\Data 01\bin\Debug\net9.0\Data 01.deps.json
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 02\Data 01\bin\Debug\net9.0\Data 01.dll
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 02\Data 01\bin\Debug\net9.0\Data 01.pdb
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 02\Data 01\obj\Debug\net9.0\Data 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 02\Data 01\obj\Debug\net9.0\Data 01.AssemblyInfoInputs.cache
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 02\Data 01\obj\Debug\net9.0\Data 01.AssemblyInfo.cs
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 02\Data 01\obj\Debug\net9.0\Data 01.csproj.CoreCompileInputs.cache
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 02\Data 01\obj\Debug\net9.0\Data 01.dll
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 02\Data 01\obj\Debug\net9.0\refint\Data 01.dll
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 02\Data 01\obj\Debug\net9.0\Data 01.pdb
+C:\Users\Mr Ali\Music\Coach Acadmy\Session 02\Data 01\obj\Debug\net9.0\ref\Data 01.dll
+C:\Users\Mr Ali\Music\Route\LINQ\Session 02\Data 01\bin\Debug\net9.0\Data 01.deps.json
+C:\Users\Mr Ali\Music\Route\LINQ\Session 02\Data 01\bin\Debug\net9.0\Data 01.dll
+C:\Users\Mr Ali\Music\Route\LINQ\Session 02\Data 01\bin\Debug\net9.0\Data 01.pdb
+C:\Users\Mr Ali\Music\Route\LINQ\Session 02\Data 01\obj\Debug\net9.0\Data 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Ali\Music\Route\LINQ\Session 02\Data 01\obj\Debug\net9.0\Data 01.AssemblyInfoInputs.cache
+C:\Users\Mr Ali\Music\Route\LINQ\Session 02\Data 01\obj\Debug\net9.0\Data 01.AssemblyInfo.cs
+C:\Users\Mr Ali\Music\Route\LINQ\Session 02\Data 01\obj\Debug\net9.0\Data 01.csproj.CoreCompileInputs.cache
+C:\Users\Mr Ali\Music\Route\LINQ\Session 02\Data 01\obj\Debug\net9.0\Data 01.sourcelink.json
+C:\Users\Mr Ali\Music\Route\LINQ\Session 02\Data 01\obj\Debug\net9.0\Data 01.dll
+C:\Users\Mr Ali\Music\Route\LINQ\Session 02\Data 01\obj\Debug\net9.0\refint\Data 01.dll
+C:\Users\Mr Ali\Music\Route\LINQ\Session 02\Data 01\obj\Debug\net9.0\Data 01.pdb
+C:\Users\Mr Ali\Music\Route\LINQ\Session 02\Data 01\obj\Debug\net9.0\ref\Data 01.dll

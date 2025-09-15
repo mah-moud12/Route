@@ -19,7 +19,7 @@ namespace OOP_Exam__07.Questions
 
             Console.Write("Please Enter Question Mark : ");
             bool flagMark = double.TryParse(Console.ReadLine(), out double markInput);
-            while (!flagMark)
+            while (!flagMark && markInput>0)
             {
                 Console.Write("Try Again Enter Question Mark :");
                 flagMark = double.TryParse(Console.ReadLine(), out markInput);

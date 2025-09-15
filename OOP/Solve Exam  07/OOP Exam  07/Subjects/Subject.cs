@@ -80,9 +80,9 @@ namespace OOP_Exam__07.Subjects
                     totalMark += Exam!.Questions![i].Mark;
                 }
                 DateTime endTime = DateTime.Now;
-                TimeSpan totalTime = endTime - startTime;
+                Exam!.TimeOfExam = endTime - startTime;
                 Console.WriteLine($"Your Mark : {yourMark}/{totalMark}");
-                Console.WriteLine($"Time => {totalTime.Minutes}:{totalTime.Seconds}");
+                Console.WriteLine($"Time => {Exam.TimeOfExam.Minutes}:{Exam.TimeOfExam.Seconds}");
             }
             else
             {
