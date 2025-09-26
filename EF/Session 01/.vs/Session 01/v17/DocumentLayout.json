@@ -3,84 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2D883F4-4507-495E-A35B-341082A71E25}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\ef\\session 01\\solve task\\model\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2D883F4-4507-495E-A35B-341082A71E25}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\model\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2D883F4-4507-495E-A35B-341082A71E25}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\ef\\session 01\\solve task\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2D883F4-4507-495E-A35B-341082A71E25}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2D883F4-4507-495E-A35B-341082A71E25}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\ef\\session 01\\solve task\\model\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2D883F4-4507-495E-A35B-341082A71E25}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\model\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2D883F4-4507-495E-A35B-341082A71E25}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\ef\\session 01\\solve task\\model\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2D883F4-4507-495E-A35B-341082A71E25}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\model\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Migrations\\20250919025004_InitialCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Solve Task\\Migrations\\20250919025004_InitialCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2D883F4-4507-495E-A35B-341082A71E25}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\ef\\session 01\\solve task\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2D883F4-4507-495E-A35B-341082A71E25}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2D883F4-4507-495E-A35B-341082A71E25}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\ef\\session 01\\solve task\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2D883F4-4507-495E-A35B-341082A71E25}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2D883F4-4507-495E-A35B-341082A71E25}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\ef\\session 01\\solve task\\data\\iti_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2D883F4-4507-495E-A35B-341082A71E25}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\data\\iti_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2D883F4-4507-495E-A35B-341082A71E25}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\ef\\session 01\\solve task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2D883F4-4507-495E-A35B-341082A71E25}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2D883F4-4507-495E-A35B-341082A71E25}|Solve Task\\Solve Task.csproj|c:\\users\\mr ali\\music\\route\\ef\\session 01\\solve task\\model\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2D883F4-4507-495E-A35B-341082A71E25}|Solve Task\\Solve Task.csproj|solutionrelative:solve task\\model\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Migrations\\20250919022152_UpdateFK02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Solve Task\\Migrations\\20250919022152_UpdateFK02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Migrations\\20250919021516_UpdateFK.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Solve Task\\Migrations\\20250919021516_UpdateFK.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Migrations\\20250919015451_InitialCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Solve Task\\Migrations\\20250919015451_InitialCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04A99D5-43CF-4800-B376-F8CD6FB7B04F}|Session 01\\Session 01.csproj|c:\\users\\mr ali\\music\\route\\ef\\session 01\\session 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04A99D5-43CF-4800-B376-F8CD6FB7B04F}|Session 01\\Session 01.csproj|solutionrelative:session 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04A99D5-43CF-4800-B376-F8CD6FB7B04F}|Session 01\\Session 01.csproj|c:\\users\\mr ali\\music\\route\\ef\\session 01\\session 01\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04A99D5-43CF-4800-B376-F8CD6FB7B04F}|Session 01\\Session 01.csproj|solutionrelative:session 01\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04A99D5-43CF-4800-B376-F8CD6FB7B04F}|Session 01\\Session 01.csproj|c:\\users\\mr ali\\music\\route\\ef\\session 01\\session 01\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04A99D5-43CF-4800-B376-F8CD6FB7B04F}|Session 01\\Session 01.csproj|solutionrelative:session 01\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04A99D5-43CF-4800-B376-F8CD6FB7B04F}|Session 01\\Session 01.csproj|c:\\users\\mr ali\\music\\route\\ef\\session 01\\session 01\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04A99D5-43CF-4800-B376-F8CD6FB7B04F}|Session 01\\Session 01.csproj|solutionrelative:session 01\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04A99D5-43CF-4800-B376-F8CD6FB7B04F}|Session 01\\Session 01.csproj|c:\\users\\mr ali\\music\\route\\ef\\session 01\\session 01\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04A99D5-43CF-4800-B376-F8CD6FB7B04F}|Session 01\\Session 01.csproj|solutionrelative:session 01\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D04A99D5-43CF-4800-B376-F8CD6FB7B04F}|Session 01\\Session 01.csproj|c:\\users\\mr ali\\music\\route\\ef\\session 01\\session 01\\data\\companyg01db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D04A99D5-43CF-4800-B376-F8CD6FB7B04F}|Session 01\\Session 01.csproj|solutionrelative:session 01\\data\\companyg01db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Migrations\\20250919003649_InitialCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Session 01\\Migrations\\20250919003649_InitialCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04A99D5-43CF-4800-B376-F8CD6FB7B04F}|Session 01\\Session 01.csproj|c:\\users\\mr ali\\music\\route\\ef\\session 01\\session 01\\migrations\\companyg01dbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04A99D5-43CF-4800-B376-F8CD6FB7B04F}|Session 01\\Session 01.csproj|solutionrelative:session 01\\migrations\\companyg01dbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04A99D5-43CF-4800-B376-F8CD6FB7B04F}|Session 01\\Session 01.csproj|c:\\users\\mr ali\\music\\route\\ef\\session 01\\session 01\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04A99D5-43CF-4800-B376-F8CD6FB7B04F}|Session 01\\Session 01.csproj|solutionrelative:session 01\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,216 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250919025004_InitialCreation.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Migrations\\20250919025004_InitialCreation.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Migrations\\20250919025004_InitialCreation.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Migrations\\20250919025004_InitialCreation.cs",
-              "RelativeToolTip": "Solve Task\\Migrations\\20250919025004_InitialCreation.cs",
-              "ViewState": "AgIAAMsAAAAAAAAAAAAAAN8AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T02:50:04.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20250919022152_UpdateFK02.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Migrations\\20250919022152_UpdateFK02.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Migrations\\20250919022152_UpdateFK02.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Migrations\\20250919022152_UpdateFK02.cs",
-              "RelativeToolTip": "Solve Task\\Migrations\\20250919022152_UpdateFK02.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T02:21:52.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20250919021516_UpdateFK.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Migrations\\20250919021516_UpdateFK.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Migrations\\20250919021516_UpdateFK.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Migrations\\20250919021516_UpdateFK.cs",
-              "RelativeToolTip": "Solve Task\\Migrations\\20250919021516_UpdateFK.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAgwFgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T02:15:16.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20250919015451_InitialCreation.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Migrations\\20250919015451_InitialCreation.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Migrations\\20250919015451_InitialCreation.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Migrations\\20250919015451_InitialCreation.cs",
-              "RelativeToolTip": "Solve Task\\Migrations\\20250919015451_InitialCreation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T01:54:52.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Stud_Course.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Model\\Stud_Course.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Model\\Stud_Course.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Model\\Stud_Course.cs",
-              "RelativeToolTip": "Solve Task\\Model\\Stud_Course.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvwwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T01:52:34.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Course_Inst.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Model\\Course_Inst.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Model\\Course_Inst.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Model\\Course_Inst.cs",
-              "RelativeToolTip": "Solve Task\\Model\\Course_Inst.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T01:50:49.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Instructor.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Model\\Instructor.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Model\\Instructor.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Model\\Instructor.cs",
-              "RelativeToolTip": "Solve Task\\Model\\Instructor.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T01:36:49.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Model\\Course.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Model\\Course.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Model\\Course.cs",
-              "RelativeToolTip": "Solve Task\\Model\\Course.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T01:34:21.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Topic.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Model\\Topic.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Model\\Topic.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Model\\Topic.cs",
-              "RelativeToolTip": "Solve Task\\Model\\Topic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T01:32:32.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ITI_DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Data\\ITI_DbContext.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Data\\ITI_DbContext.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Data\\ITI_DbContext.cs",
-              "RelativeToolTip": "Solve Task\\Data\\ITI_DbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwB4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T01:24:06.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Model\\Department.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Model\\Department.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Model\\Department.cs",
-              "RelativeToolTip": "Solve Task\\Model\\Department.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvxEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T01:22:44.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Model\\Student.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Model\\Student.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Model\\Student.cs",
-              "RelativeToolTip": "Solve Task\\Model\\Student.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T01:15:22.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Program.cs",
-              "RelativeDocumentMoniker": "Solve Task\\Program.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Program.cs",
-              "RelativeToolTip": "Solve Task\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T01:07:55.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Model\\Department.cs",
-              "RelativeDocumentMoniker": "Session 01\\Model\\Department.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Model\\Department.cs",
-              "RelativeToolTip": "Session 01\\Model\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T01:03:49.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "Session 01\\Model\\Product.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Model\\Product.cs",
-              "RelativeToolTip": "Session 01\\Model\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T01:03:47.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Model\\Project.cs",
-              "RelativeDocumentMoniker": "Session 01\\Model\\Project.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Model\\Project.cs",
-              "RelativeToolTip": "Session 01\\Model\\Project.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T00:37:07.291Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -314,54 +42,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Model\\Employee.cs",
-              "RelativeDocumentMoniker": "Session 01\\Model\\Employee.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Model\\Employee.cs",
-              "RelativeToolTip": "Session 01\\Model\\Employee.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCIAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ITI_DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Data\\ITI_DbContext.cs",
+              "RelativeDocumentMoniker": "Solve Task\\Data\\ITI_DbContext.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Solve Task\\Data\\ITI_DbContext.cs",
+              "RelativeToolTip": "Solve Task\\Data\\ITI_DbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T01:00:24.619Z",
+              "WhenOpened": "2025-09-23T04:21:51.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 2,
+              "Title": "CompanyG01DbModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Migrations\\CompanyG01DbModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Session 01\\Migrations\\CompanyG01DbModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Migrations\\CompanyG01DbModelSnapshot.cs",
+              "RelativeToolTip": "Session 01\\Migrations\\CompanyG01DbModelSnapshot.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T04:21:34.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CompanyG01Db.cs",
               "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Data\\CompanyG01Db.cs",
               "RelativeDocumentMoniker": "Session 01\\Data\\CompanyG01Db.cs",
               "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Data\\CompanyG01Db.cs",
               "RelativeToolTip": "Session 01\\Data\\CompanyG01Db.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T00:37:11.008Z",
+              "WhenOpened": "2025-09-22T23:02:08.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20250919003649_InitialCreation.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Migrations\\20250919003649_InitialCreation.cs",
-              "RelativeDocumentMoniker": "Session 01\\Migrations\\20250919003649_InitialCreation.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Migrations\\20250919003649_InitialCreation.cs",
-              "RelativeToolTip": "Session 01\\Migrations\\20250919003649_InitialCreation.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwDUAAABHAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Session 01\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Model\\Employee.cs",
+              "RelativeToolTip": "Session 01\\Model\\Employee.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T00:36:49.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Program.cs",
-              "RelativeDocumentMoniker": "Session 01\\Program.cs",
-              "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\EF\\Session 01\\Session 01\\Program.cs",
-              "RelativeToolTip": "Session 01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T17:07:43.226Z",
+              "WhenOpened": "2025-09-22T23:02:05.57Z",
               "EditorCaption": ""
             }
           ]

@@ -3,6 +3,7 @@ using static Data01.ListGeneratorHelpers;
 using System.Collections;
 using System.ComponentModel;
 using System.Runtime.ExceptionServices;
+using Data01;
 
 namespace Demo_01
 {
@@ -214,8 +215,8 @@ namespace Demo_01
             #region Filtration [Restrication] Operators - Where 
 
             #region Get Elements Out Of Stock
-            // 1.Fluent Syntax
-            //var Result = Products?.Where(p=>p?.UnitsInStock==0); // Deferred Execution
+            //1.Fluent Syntax
+           var Result = Products?.Where(p => p?.UnitsInStock == 0); // Deferred Execution
 
             // 2.Query Syntax
             //var Result = from p in Products
@@ -353,12 +354,12 @@ namespace Demo_01
             #endregion
 
             #region Get Products Ordered By Price Desc
-            //var list = Products.OrderByDescending(p => p.UnitPrice);
-            //list = Products.OrderByDescending(p => p.UnitPrice);
+            var list = Products.OrderByDescending(p => p.UnitPrice);
+            list = Products.OrderByDescending(p => p.UnitPrice);
 
-            //list = from p in Products
-            //       orderby p.UnitPrice descending
-            //       select p;
+            list = from p in Products
+                   orderby p.UnitPrice descending
+                   select p;
             #endregion
 
             #region Get Products Ordered By Price Asc and Number Of Items In Stock
@@ -379,13 +380,13 @@ namespace Demo_01
             #region Elements Operator - Immediate Execution [Valid Only With Fluent Syntax]
 
             #region First and FirstOrDefault
-            //List<Product> elem = new List<Product>();
-            //Product product = Products.First(p=>p.UnitsInStock==0); // هيرجع اول product ب match condition بس هيا unsafe
-            //Product product01 = elem.First(p=>p.UnitsInStock==0); //exception علشان كده هيا unsafe 
+            // List<Product> elem = new List<Product>();
+            // Product product = Products.First(p => p.UnitsInStock == 0); // هيرجع اول product ب match condition بس هيا unsafe
+            // Product product01 = elem.First(p => p.UnitsInStock == 0); //exception علشان كده هيا unsafe 
 
             // Solve Problem Exception
             //Product? product01 = elem.FirstOrDefault(p => p.UnitsInStock == 0); // لو مفيش عناصر هترجع ب null
-            //Console.WriteLine(product01?.ProductID); 
+            // Console.WriteLine(product01?.ProductID);
             #endregion
 
             #region Last and LastOrDefault
@@ -403,12 +404,12 @@ namespace Demo_01
             #region ElementAt and ElementAtOrDefault
             //List<Product> elem = new List<Product>();
             //Product product = Products.ElementAt(1); //unsafe
-            ////Product product01 = elem.ElementAt(0);//exception علشان كده هيا unsafe 
+            //////Product product01 = elem.ElementAt(0);//exception علشان كده هيا unsafe 
 
-            //// Solve Problem Exception
+            ////// Solve Problem Exception
             //Product? product01 = elem.ElementAtOrDefault(1); // لو مفيش عناصر هترجع ب null
-            //Console.WriteLine(product01?.ProductID); 
-            //Console.WriteLine(product); 
+            //Console.WriteLine(product01?.ProductID);
+            //Console.WriteLine(product);
             #endregion
 
             #region Single and SingleOrDefault 
@@ -460,11 +461,11 @@ namespace Demo_01
             ////Console.WriteLine(GetElementMaxLength);
             //////*******************************************************************************
 
-            ////var Total = Products.Sum(p => p.UnitPrice);
-            ////Console.WriteLine(Total);
+            //var Total = Products.Sum(p => p.UnitPrice);
+            //Console.WriteLine(Total);
             //////*******************************************************************************
-            ////var Avg = Products.Count(p => p.UnitsInStock==0);
-            ////Console.WriteLine(Avg);
+            //var Avg = Products.Count(p => p.UnitsInStock == 0);
+            //Console.WriteLine(Avg);
             #endregion
 
 

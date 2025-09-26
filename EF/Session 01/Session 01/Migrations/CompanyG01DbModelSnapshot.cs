@@ -36,24 +36,36 @@ namespace Session_01.Migrations
 
             modelBuilder.Entity("Session_01.Model.Employee", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("EmpId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("EmpId"));
 
                     b.Property<int>("Age")
                         .HasColumnType("int");
 
+                    b.Property<int>("EmailAddress")
+                        .HasColumnType("int");
+
                     b.Property<string>("Name")
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(50)
+                        .HasColumnType("varchar")
+                        .HasColumnName("EmpName");
+
+                    b.Property<int>("Password")
+                        .HasColumnType("int");
+
+                    b.Property<int>("PhoneNumber")
+                        .HasColumnType("int");
 
                     b.Property<decimal>("Salary")
-                        .HasColumnType("decimal(18,2)");
+                        .HasColumnType("decimal(10,2)")
+                        .HasColumnName("EmpSalary");
 
-                    b.HasKey("Id");
+                    b.HasKey("EmpId");
 
-                    b.ToTable("Employees");
+                    b.ToTable("Hamada");
                 });
 
             modelBuilder.Entity("Session_01.Model.Product", b =>

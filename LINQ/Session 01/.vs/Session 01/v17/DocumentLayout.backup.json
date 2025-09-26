@@ -46,12 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -74,8 +70,7 @@
               "RelativeToolTip": "Demo 01\\Program.cs",
               "ViewState": "AgIAANIAAAAAAAAAAAAgwNYBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T13:15:17.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T13:15:17.57Z"
             },
             {
               "$type": "Document",
@@ -121,7 +116,7 @@
               "RelativeDocumentMoniker": "Solve Task\\Program.cs",
               "ToolTip": "C:\\Users\\Mr Ali\\Music\\Route\\LINQ\\Session 01\\Solve Task\\Program.cs",
               "RelativeToolTip": "Solve Task\\Program.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAwG8AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAEBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T13:50:55.411Z",
               "EditorCaption": ""
@@ -136,8 +131,7 @@
               "RelativeToolTip": "Data01\\Data\\Product.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAowBIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:59:57.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T13:59:57.588Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "Data01\\ListGeneratorHelpers.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA5wBgAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:59:51.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T13:59:51.325Z"
             },
             {
               "$type": "Document",
